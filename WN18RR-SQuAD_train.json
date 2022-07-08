@@ -1,0 +1,4941 @@
+{
+    "data": [
+            {
+            "title": "WN18RR", 
+            "paragraphs": [
+{
+"context": "urine.n.01,_derivationally_related_form,urinary.a.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 40 , "text": "urinary.a.01"}],
+"question": "urine.n.01,_derivationally_related_form",
+ "id": "0x295183bf1f00x29518fec3f0"
+}
+]},
+{
+"context": "priority.n.02,_derivationally_related_form,antecedent.a.01,_derivationally_related_form,ancestor.n.01,_hypernym,relative.n.01,_hypernym,person.n.01,_derivationally_related_form,mortal.a.01,_also_see,earthly.a.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 43 , "text": "antecedent.a.01"}],
+"question": "priority.n.02,_derivationally_related_form",
+ "id": "0x295183bf3b00x29518381490"
+},
+{
+ "answers": [{"answer_start": 88 , "text": "ancestor.n.01"}],
+"question": "antecedent.a.01,_derivationally_related_form",
+ "id": "0x295183bf4300x29518381530"
+},
+{
+ "answers": [{"answer_start": 112 , "text": "relative.n.01"}],
+"question": "ancestor.n.01,_hypernym",
+ "id": "0x295183bf4700x295183bf4b0"
+},
+{
+ "answers": [{"answer_start": 136 , "text": "person.n.01"}],
+"question": "relative.n.01,_hypernym",
+ "id": "0x295183bf4f00x295183bf530"
+},
+{
+ "answers": [{"answer_start": 177 , "text": "mortal.a.01"}],
+"question": "person.n.01,_derivationally_related_form",
+ "id": "0x295183bf5700x29518381580"
+},
+{
+ "answers": [{"answer_start": 199 , "text": "earthly.a.01"}],
+"question": "mortal.a.01,_also_see",
+ "id": "0x295183bf5b00x295183bf5f0"
+}
+]},
+{
+"context": "combat_pilot.n.01,_synset_domain_topic_of,military.n.01,_hypernym,force.n.04 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 42 , "text": "military.n.01"}],
+"question": "combat_pilot.n.01,_synset_domain_topic_of",
+ "id": "0x295183436180x2951833ffa8"
+},
+{
+ "answers": [{"answer_start": 66 , "text": "force.n.04"}],
+"question": "military.n.01,_hypernym",
+ "id": "0x29517b711b00x295183bf670"
+}
+]},
+{
+"context": "arkansas.n.02,_instance_hypernym,river.n.01,_hypernym,stream.n.01,_hypernym,body_of_water.n.01,_hypernym,thing.n.12 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 33 , "text": "river.n.01"}],
+"question": "arkansas.n.02,_instance_hypernym",
+ "id": "0x295183bf4700x2951833f228"
+},
+{
+ "answers": [{"answer_start": 54 , "text": "stream.n.01"}],
+"question": "river.n.01,_hypernym",
+ "id": "0x295183bf4b00x295183bf4f0"
+},
+{
+ "answers": [{"answer_start": 76 , "text": "body_of_water.n.01"}],
+"question": "stream.n.01,_hypernym",
+ "id": "0x295183bf5300x295183bf570"
+},
+{
+ "answers": [{"answer_start": 105 , "text": "thing.n.12"}],
+"question": "body_of_water.n.01,_hypernym",
+ "id": "0x2951833f3d80x295183bf6b0"
+}
+]},
+{
+"context": "pedionomus.n.01,_hypernym,bird_genus.n.01,_hypernym,genus.n.02,_member_meronym,species.n.01,_member_meronym,form.n.09,_synset_domain_topic_of,biology.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 26 , "text": "bird_genus.n.01"}],
+"question": "pedionomus.n.01,_hypernym",
+ "id": "0x295183bf3f00x295183bf1f0"
+},
+{
+ "answers": [{"answer_start": 52 , "text": "genus.n.02"}],
+"question": "bird_genus.n.01,_hypernym",
+ "id": "0x295183bf6300x295183bf1b0"
+},
+{
+ "answers": [{"answer_start": 79 , "text": "species.n.01"}],
+"question": "genus.n.02,_member_meronym",
+ "id": "0x295183bf2f00x295183bf330"
+},
+{
+ "answers": [{"answer_start": 108 , "text": "form.n.09"}],
+"question": "species.n.01,_member_meronym",
+ "id": "0x295183bf3700x295183bf130"
+},
+{
+ "answers": [{"answer_start": 142 , "text": "biology.n.01"}],
+"question": "form.n.09,_synset_domain_topic_of",
+ "id": "0x295183bf7700x2951833ffa8"
+}
+]},
+{
+"context": "perambulate.v.02,_derivationally_related_form,amble.n.01,_derivationally_related_form,perambulate.v.02,_derivationally_related_form,amble.n.01,_derivationally_related_form,amble.v.01,_derivationally_related_form,amble.n.01,_derivationally_related_form,stroll.v.01,_derivationally_related_form,saunterer.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 212 , "text": "amble.n.01"}],
+"question": "perambulate.v.02,_derivationally_related_form",
+ "id": "0x2951833ff600x29518381850"
+},
+{
+ "answers": [{"answer_start": 86 , "text": "perambulate.v.02"}],
+"question": "amble.n.01,_derivationally_related_form",
+ "id": "0x295183bf4b00x295183818a0"
+},
+{
+ "answers": [{"answer_start": 212 , "text": "amble.n.01"}],
+"question": "perambulate.v.02,_derivationally_related_form",
+ "id": "0x2951833f3d80x295183818f0"
+},
+{
+ "answers": [{"answer_start": 172 , "text": "amble.v.01"}],
+"question": "amble.n.01,_derivationally_related_form",
+ "id": "0x295183bf7300x29518381940"
+},
+{
+ "answers": [{"answer_start": 212 , "text": "amble.n.01"}],
+"question": "amble.v.01,_derivationally_related_form",
+ "id": "0x295183bf5f00x29518381990"
+},
+{
+ "answers": [{"answer_start": 252 , "text": "stroll.v.01"}],
+"question": "amble.n.01,_derivationally_related_form",
+ "id": "0x295183bf2b00x295183819e0"
+},
+{
+ "answers": [{"answer_start": 293 , "text": "saunterer.n.01"}],
+"question": "stroll.v.01,_derivationally_related_form",
+ "id": "0x295183bf2700x29518381a30"
+}
+]},
+{
+"context": "junction.n.02,_hypernym,union.n.04,_hypernym,state.n.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 24 , "text": "union.n.04"}],
+"question": "junction.n.02,_hypernym",
+ "id": "0x295183bf4700x295183bf3f0"
+},
+{
+ "answers": [{"answer_start": 45 , "text": "state.n.02"}],
+"question": "union.n.04,_hypernym",
+ "id": "0x295183bf7700x295183bf1f0"
+}
+]},
+{
+"context": "georgian.a.04,_derivationally_related_form,george.n.04,_derivationally_related_form,georgian.a.04,_derivationally_related_form,george.n.05,_derivationally_related_form,georgian.a.04,_derivationally_related_form,george.n.06,_instance_hypernym,king_of_england.n.01,_hypernym,king.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 43 , "text": "george.n.04"}],
+"question": "georgian.a.04,_derivationally_related_form",
+ "id": "0x295183bf3300x29518381c60"
+},
+{
+ "answers": [{"answer_start": 168 , "text": "georgian.a.04"}],
+"question": "george.n.04,_derivationally_related_form",
+ "id": "0x295183bf5f00x29518381bc0"
+},
+{
+ "answers": [{"answer_start": 127 , "text": "george.n.05"}],
+"question": "georgian.a.04,_derivationally_related_form",
+ "id": "0x295183bf3700x29518381cb0"
+},
+{
+ "answers": [{"answer_start": 168 , "text": "georgian.a.04"}],
+"question": "george.n.05,_derivationally_related_form",
+ "id": "0x295183bf2b00x29518381d00"
+},
+{
+ "answers": [{"answer_start": 211 , "text": "george.n.06"}],
+"question": "georgian.a.04,_derivationally_related_form",
+ "id": "0x295183bf1b00x29518381d50"
+},
+{
+ "answers": [{"answer_start": 242 , "text": "king_of_england.n.01"}],
+"question": "george.n.06,_instance_hypernym",
+ "id": "0x295183bf4f00x2951833f3d8"
+},
+{
+ "answers": [{"answer_start": 273 , "text": "king.n.01"}],
+"question": "king_of_england.n.01,_hypernym",
+ "id": "0x2951833f1980x295183bf6f0"
+}
+]},
+{
+"context": "smooth.a.03,_synset_domain_topic_of,botany.n.02,_derivationally_related_form,botanize.v.01,_derivationally_related_form,botany.n.02,_derivationally_related_form,botanist.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 120 , "text": "botany.n.02"}],
+"question": "smooth.a.03,_synset_domain_topic_of",
+ "id": "0x295183bf7700x2951833ff60"
+},
+{
+ "answers": [{"answer_start": 77 , "text": "botanize.v.01"}],
+"question": "botany.n.02,_derivationally_related_form",
+ "id": "0x295183bf4700x29518381b20"
+},
+{
+ "answers": [{"answer_start": 120 , "text": "botany.n.02"}],
+"question": "botanize.v.01,_derivationally_related_form",
+ "id": "0x295183bf3f00x29518381b70"
+},
+{
+ "answers": [{"answer_start": 161 , "text": "botanist.n.01"}],
+"question": "botany.n.02,_derivationally_related_form",
+ "id": "0x295183bf7b00x29518381c10"
+}
+]},
+{
+"context": "perciformes.n.01,_member_meronym,pomacentridae.n.01,_member_meronym,damselfish.n.01,_hypernym,percoid_fish.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 33 , "text": "pomacentridae.n.01"}],
+"question": "perciformes.n.01,_member_meronym",
+ "id": "0x2951833f3d80x295183bf6f0"
+},
+{
+ "answers": [{"answer_start": 68 , "text": "damselfish.n.01"}],
+"question": "pomacentridae.n.01,_member_meronym",
+ "id": "0x2951833f1980x295183bf630"
+},
+{
+ "answers": [{"answer_start": 94 , "text": "percoid_fish.n.01"}],
+"question": "damselfish.n.01,_hypernym",
+ "id": "0x295183bf1300x295183bf430"
+}
+]},
+{
+"context": "underachieve.v.01,_derivationally_related_form,underachiever.n.01,_derivationally_related_form,underachieve.v.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 47 , "text": "underachiever.n.01"}],
+"question": "underachieve.v.01,_derivationally_related_form",
+ "id": "0x2951833f2280x29518381bc0"
+},
+{
+ "answers": [{"answer_start": 95 , "text": "underachieve.v.01"}],
+"question": "underachiever.n.01,_derivationally_related_form",
+ "id": "0x2951833ff600x29518381d00"
+}
+]},
+{
+"context": "aves.n.01,_member_meronym,ciconiiformes.n.01,_member_meronym,threskiornithidae.n.01,_member_meronym,ibis.n.01,_hypernym,wading_bird.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 26 , "text": "ciconiiformes.n.01"}],
+"question": "aves.n.01,_member_meronym",
+ "id": "0x295183bf3300x295183bf1f0"
+},
+{
+ "answers": [{"answer_start": 61 , "text": "threskiornithidae.n.01"}],
+"question": "ciconiiformes.n.01,_member_meronym",
+ "id": "0x295183430780x295183bf270"
+},
+{
+ "answers": [{"answer_start": 100 , "text": "ibis.n.01"}],
+"question": "threskiornithidae.n.01,_member_meronym",
+ "id": "0x2951833f3d80x295183bf7b0"
+},
+{
+ "answers": [{"answer_start": 120 , "text": "wading_bird.n.01"}],
+"question": "ibis.n.01,_hypernym",
+ "id": "0x295183bf7700x295183bf470"
+}
+]},
+{
+"context": "predestine.v.03,_hypernym,predetermine.v.01,_hypernym,determine.v.02,_derivationally_related_form,shaping.n.01,_hypernym,process.n.06 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 26 , "text": "predetermine.v.01"}],
+"question": "predestine.v.03,_hypernym",
+ "id": "0x295183bf1300x295183bf630"
+},
+{
+ "answers": [{"answer_start": 54 , "text": "determine.v.02"}],
+"question": "predetermine.v.01,_hypernym",
+ "id": "0x2951833f3480x295183bf2b0"
+},
+{
+ "answers": [{"answer_start": 98 , "text": "shaping.n.01"}],
+"question": "determine.v.02,_derivationally_related_form",
+ "id": "0x295183bf1b00x29518381a30"
+},
+{
+ "answers": [{"answer_start": 121 , "text": "process.n.06"}],
+"question": "shaping.n.01,_hypernym",
+ "id": "0x295183bf4f00x295183bf4b0"
+}
+]},
+{
+"context": "crap.n.01,_derivationally_related_form,stool.v.04,_derivationally_related_form,toilet.n.02,_has_part,toilet_bowl.n.01,_hypernym,bowl.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 39 , "text": "stool.v.04"}],
+"question": "crap.n.01,_derivationally_related_form",
+ "id": "0x295183bf3f00x29518381d00"
+},
+{
+ "answers": [{"answer_start": 79 , "text": "toilet.n.02"}],
+"question": "stool.v.04,_derivationally_related_form",
+ "id": "0x295183bf7300x29518381bc0"
+},
+{
+ "answers": [{"answer_start": 101 , "text": "toilet_bowl.n.01"}],
+"question": "toilet.n.02,_has_part",
+ "id": "0x295183bf3700x295183bf6f0"
+},
+{
+ "answers": [{"answer_start": 128 , "text": "bowl.n.01"}],
+"question": "toilet_bowl.n.01,_hypernym",
+ "id": "0x2951833f0300x295183bf6b0"
+}
+]},
+{
+"context": "sensory_system.n.02,_hypernym,system.n.06,_hypernym,body_part.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 30 , "text": "system.n.06"}],
+"question": "sensory_system.n.02,_hypernym",
+ "id": "0x2951833ffa80x295183bf470"
+},
+{
+ "answers": [{"answer_start": 52 , "text": "body_part.n.01"}],
+"question": "system.n.06,_hypernym",
+ "id": "0x295183bf4f00x295183bf4b0"
+}
+]},
+{
+"context": "credence.n.01,_derivationally_related_form,accept.v.01,_derivationally_related_form,credence.n.01,_derivationally_related_form,accept.v.01,_hypernym,evaluate.v.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 127 , "text": "accept.v.01"}],
+"question": "credence.n.01,_derivationally_related_form",
+ "id": "0x295183bf5b00x29518381c10"
+},
+{
+ "answers": [{"answer_start": 84 , "text": "credence.n.01"}],
+"question": "accept.v.01,_derivationally_related_form",
+ "id": "0x295183bf7700x29518381b20"
+},
+{
+ "answers": [{"answer_start": 127 , "text": "accept.v.01"}],
+"question": "credence.n.01,_derivationally_related_form",
+ "id": "0x295183bf6f00x29518381b70"
+},
+{
+ "answers": [{"answer_start": 149 , "text": "evaluate.v.02"}],
+"question": "accept.v.01,_hypernym",
+ "id": "0x295183bf3300x295183bf1f0"
+}
+]},
+{
+"context": "gastropoda.n.01,_member_meronym,opisthobranchia.n.01,_member_meronym,nudibranchia.n.01,_hypernym,animal_order.n.01,_hypernym,order.n.12,_synset_domain_topic_of,biology.n.01,_derivationally_related_form,biologist.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 32 , "text": "opisthobranchia.n.01"}],
+"question": "gastropoda.n.01,_member_meronym",
+ "id": "0x295183bf6300x295183bf4b0"
+},
+{
+ "answers": [{"answer_start": 69 , "text": "nudibranchia.n.01"}],
+"question": "opisthobranchia.n.01,_member_meronym",
+ "id": "0x2951833f3d80x295183bf3f0"
+},
+{
+ "answers": [{"answer_start": 97 , "text": "animal_order.n.01"}],
+"question": "nudibranchia.n.01,_hypernym",
+ "id": "0x2951833f0300x295183bf4f0"
+},
+{
+ "answers": [{"answer_start": 125 , "text": "order.n.12"}],
+"question": "animal_order.n.01,_hypernym",
+ "id": "0x2951833ef600x295183bf270"
+},
+{
+ "answers": [{"answer_start": 160 , "text": "biology.n.01"}],
+"question": "order.n.12,_synset_domain_topic_of",
+ "id": "0x295183bf1300x2951833edb0"
+},
+{
+ "answers": [{"answer_start": 202 , "text": "biologist.n.01"}],
+"question": "biology.n.01,_derivationally_related_form",
+ "id": "0x295183bf1b00x29518381cb0"
+}
+]},
+{
+"context": "guy.v.02,_hypernym,brace.v.02,_derivationally_related_form,brace.n.01,_derivationally_related_form,brace.v.02,_derivationally_related_form,stabilization.n.02,_synset_domain_topic_of,aircraft.n.01,_has_part,skeleton.n.04 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 99 , "text": "brace.v.02"}],
+"question": "guy.v.02,_hypernym",
+ "id": "0x295183bf7300x295183bf2b0"
+},
+{
+ "answers": [{"answer_start": 59 , "text": "brace.n.01"}],
+"question": "brace.v.02,_derivationally_related_form",
+ "id": "0x295183bf6f00x29518381ad0"
+},
+{
+ "answers": [{"answer_start": 99 , "text": "brace.v.02"}],
+"question": "brace.n.01,_derivationally_related_form",
+ "id": "0x295183bf6700x29518381da0"
+},
+{
+ "answers": [{"answer_start": 139 , "text": "stabilization.n.02"}],
+"question": "brace.v.02,_derivationally_related_form",
+ "id": "0x295183bf2f00x29518381df0"
+},
+{
+ "answers": [{"answer_start": 182 , "text": "aircraft.n.01"}],
+"question": "stabilization.n.02,_synset_domain_topic_of",
+ "id": "0x2951833f3900x2951833f4f8"
+},
+{
+ "answers": [{"answer_start": 206 , "text": "skeleton.n.04"}],
+"question": "aircraft.n.01,_has_part",
+ "id": "0x295183bf1700x295183bf230"
+}
+]},
+{
+"context": "spiral.n.01,_derivationally_related_form,spiral.v.02,_hypernym,wind.v.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 41 , "text": "spiral.v.02"}],
+"question": "spiral.n.01,_derivationally_related_form",
+ "id": "0x2951838be300x29517fa21c0"
+},
+{
+ "answers": [{"answer_start": 63 , "text": "wind.v.02"}],
+"question": "spiral.v.02,_hypernym",
+ "id": "0x295183bf5f00x295183bf7b0"
+}
+]},
+{
+"context": "pagophila.n.01,_member_meronym,ivory_gull.n.01,_hypernym,gull.n.02,_hypernym,larid.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 31 , "text": "ivory_gull.n.01"}],
+"question": "pagophila.n.01,_member_meronym",
+ "id": "0x295183bf6f00x295183bf670"
+},
+{
+ "answers": [{"answer_start": 57 , "text": "gull.n.02"}],
+"question": "ivory_gull.n.01,_hypernym",
+ "id": "0x295183bf2f00x295183bf630"
+},
+{
+ "answers": [{"answer_start": 77 , "text": "larid.n.01"}],
+"question": "gull.n.02,_hypernym",
+ "id": "0x295183bf4b00x295183bf470"
+}
+]},
+{
+"context": "generalize.v.02,_hypernym,talk.v.02,_derivationally_related_form,speaker.n.01,_derivationally_related_form,talk.v.02,_derivationally_related_form,mouth.n.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 107 , "text": "talk.v.02"}],
+"question": "generalize.v.02,_hypernym",
+ "id": "0x295183bf3f00x295183bf230"
+},
+{
+ "answers": [{"answer_start": 65 , "text": "speaker.n.01"}],
+"question": "talk.v.02,_derivationally_related_form",
+ "id": "0x295183bf2b00x29518381df0"
+},
+{
+ "answers": [{"answer_start": 107 , "text": "talk.v.02"}],
+"question": "speaker.n.01,_derivationally_related_form",
+ "id": "0x295183bf1700x29518381a80"
+},
+{
+ "answers": [{"answer_start": 146 , "text": "mouth.n.02"}],
+"question": "talk.v.02,_derivationally_related_form",
+ "id": "0x295183bf7300x29518381b20"
+}
+]},
+{
+"context": "head.n.01,_has_part,ear.n.01,_hypernym,sense_organ.n.01,_derivationally_related_form,pick_up.v.09,_derivationally_related_form,sense_organ.n.01,_hypernym,organ.n.01,_has_part,lobe.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 20 , "text": "ear.n.01"}],
+"question": "head.n.01,_has_part",
+ "id": "0x295183bf7b00x295183bf1b0"
+},
+{
+ "answers": [{"answer_start": 127 , "text": "sense_organ.n.01"}],
+"question": "ear.n.01,_hypernym",
+ "id": "0x295183bf6300x295183bf370"
+},
+{
+ "answers": [{"answer_start": 85 , "text": "pick_up.v.09"}],
+"question": "sense_organ.n.01,_derivationally_related_form",
+ "id": "0x2951833f3900x29518381ad0"
+},
+{
+ "answers": [{"answer_start": 127 , "text": "sense_organ.n.01"}],
+"question": "pick_up.v.09,_derivationally_related_form",
+ "id": "0x295183bf5300x29518381da0"
+},
+{
+ "answers": [{"answer_start": 154 , "text": "organ.n.01"}],
+"question": "sense_organ.n.01,_hypernym",
+ "id": "0x2951833ff600x295183bf770"
+},
+{
+ "answers": [{"answer_start": 175 , "text": "lobe.n.01"}],
+"question": "organ.n.01,_has_part",
+ "id": "0x295183bf1f00x295183bf6b0"
+}
+]},
+{
+"context": "walk.n.05,_derivationally_related_form,walk.v.04,_derivationally_related_form,walker.n.05,_hypernym,framework.n.03,_hypernym,supporting_structure.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 39 , "text": "walk.v.04"}],
+"question": "walk.n.05,_derivationally_related_form",
+ "id": "0x295183bf2300x29518381d00"
+},
+{
+ "answers": [{"answer_start": 78 , "text": "walker.n.05"}],
+"question": "walk.v.04,_derivationally_related_form",
+ "id": "0x295183bf7300x29518381bc0"
+},
+{
+ "answers": [{"answer_start": 100 , "text": "framework.n.03"}],
+"question": "walker.n.05,_hypernym",
+ "id": "0x295183bf4b00x295183bf6f0"
+},
+{
+ "answers": [{"answer_start": 125 , "text": "supporting_structure.n.01"}],
+"question": "framework.n.03,_hypernym",
+ "id": "0x295183bf6700x295183bf2f0"
+}
+]},
+{
+"context": "hatch.n.02,_hypernym,shading.n.01,_derivationally_related_form,shade.v.02,_derivationally_related_form,shading.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 103 , "text": "shading.n.01"}],
+"question": "hatch.n.02,_hypernym",
+ "id": "0x295183bf2b00x295183bf170"
+},
+{
+ "answers": [{"answer_start": 63 , "text": "shade.v.02"}],
+"question": "shading.n.01,_derivationally_related_form",
+ "id": "0x295183bf5f00x29518381ad0"
+},
+{
+ "answers": [{"answer_start": 103 , "text": "shading.n.01"}],
+"question": "shade.v.02,_derivationally_related_form",
+ "id": "0x295183bf3300x29518381a30"
+}
+]},
+{
+"context": "erysiphales.n.01,_hypernym,fungus_order.n.01,_hypernym,order.n.12 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 27 , "text": "fungus_order.n.01"}],
+"question": "erysiphales.n.01,_hypernym",
+ "id": "0x295183430780x295183bf270"
+},
+{
+ "answers": [{"answer_start": 55 , "text": "order.n.12"}],
+"question": "fungus_order.n.01,_hypernym",
+ "id": "0x2951833f3900x295183bf6b0"
+}
+]},
+{
+"context": "hotel_detective.n.01,_hypernym,private_detective.n.01,_hypernym,detective.n.02,_hypernym,investigator.n.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 31 , "text": "private_detective.n.01"}],
+"question": "hotel_detective.n.01,_hypernym",
+ "id": "0x2951833ffa80x295183bf2b0"
+},
+{
+ "answers": [{"answer_start": 64 , "text": "detective.n.02"}],
+"question": "private_detective.n.01,_hypernym",
+ "id": "0x2951833ff600x295183bf170"
+},
+{
+ "answers": [{"answer_start": 89 , "text": "investigator.n.02"}],
+"question": "detective.n.02,_hypernym",
+ "id": "0x295183bf5f00x295183bf670"
+}
+]},
+{
+"context": "speculate.v.01,_derivationally_related_form,conjecture.n.03,_derivationally_related_form,speculate.v.01,_hypernym,expect.v.01,_hypernym,evaluate.v.02,_derivationally_related_form,judgment.n.02,_hypernym,act.n.02,_hypernym,event.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 44 , "text": "conjecture.n.03"}],
+"question": "speculate.v.01,_derivationally_related_form",
+ "id": "0x295183bf6300x29518381c60"
+},
+{
+ "answers": [{"answer_start": 89 , "text": "speculate.v.01"}],
+"question": "conjecture.n.03,_derivationally_related_form",
+ "id": "0x295183bf4b00x29518381da0"
+},
+{
+ "answers": [{"answer_start": 114 , "text": "expect.v.01"}],
+"question": "speculate.v.01,_hypernym",
+ "id": "0x295183bf3700x295183bf530"
+},
+{
+ "answers": [{"answer_start": 136 , "text": "evaluate.v.02"}],
+"question": "expect.v.01,_hypernym",
+ "id": "0x295183bf7700x295183bf4f0"
+},
+{
+ "answers": [{"answer_start": 179 , "text": "judgment.n.02"}],
+"question": "evaluate.v.02,_derivationally_related_form",
+ "id": "0x295183bf4700x29518381850"
+},
+{
+ "answers": [{"answer_start": 203 , "text": "act.n.02"}],
+"question": "judgment.n.02,_hypernym",
+ "id": "0x295183bf5b00x295183bf130"
+},
+{
+ "answers": [{"answer_start": 222 , "text": "event.n.01"}],
+"question": "act.n.02,_hypernym",
+ "id": "0x295183bf5700x295183bf7f0"
+}
+]},
+{
+"context": "good-temperedness.n.01,_hypernym,cheerfulness.n.01,_derivationally_related_form,cheerful.a.01,_also_see,happy.a.01,_derivationally_related_form,happiness.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 33 , "text": "cheerfulness.n.01"}],
+"question": "good-temperedness.n.01,_hypernym",
+ "id": "0x295183430780x295183bf870"
+},
+{
+ "answers": [{"answer_start": 80 , "text": "cheerful.a.01"}],
+"question": "cheerfulness.n.01,_derivationally_related_form",
+ "id": "0x2951833f3d80x29518381ad0"
+},
+{
+ "answers": [{"answer_start": 104 , "text": "happy.a.01"}],
+"question": "cheerful.a.01,_also_see",
+ "id": "0x295183bf6f00x295183bf2f0"
+},
+{
+ "answers": [{"answer_start": 144 , "text": "happiness.n.01"}],
+"question": "happy.a.01,_derivationally_related_form",
+ "id": "0x295183bf6b00x29518381d50"
+}
+]},
+{
+"context": "sword.n.01,_has_part,haft.n.01,_hypernym,handle.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 21 , "text": "haft.n.01"}],
+"question": "sword.n.01,_has_part",
+ "id": "0x29517b711b00x295183bf670"
+},
+{
+ "answers": [{"answer_start": 41 , "text": "handle.n.01"}],
+"question": "haft.n.01,_hypernym",
+ "id": "0x295183bf7f00x295183bf730"
+}
+]},
+{
+"context": "trade_name.n.01,_member_of_domain_usage,flecainide.n.01,_hypernym,antiarrhythmic.n.01,_hypernym,medicine.n.02,_derivationally_related_form,medicate.v.02,_synset_domain_topic_of,medicine.n.03,_derivationally_related_form,medicate.v.02,_derivationally_related_form,medicine.n.03 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 40 , "text": "flecainide.n.01"}],
+"question": "trade_name.n.01,_member_of_domain_usage",
+ "id": "0x295183bf5f00x2951833f390"
+},
+{
+ "answers": [{"answer_start": 66 , "text": "antiarrhythmic.n.01"}],
+"question": "flecainide.n.01,_hypernym",
+ "id": "0x295183bf2b00x295183bf370"
+},
+{
+ "answers": [{"answer_start": 96 , "text": "medicine.n.02"}],
+"question": "antiarrhythmic.n.01,_hypernym",
+ "id": "0x2951833ff600x295183bf530"
+},
+{
+ "answers": [{"answer_start": 220 , "text": "medicate.v.02"}],
+"question": "medicine.n.02,_derivationally_related_form",
+ "id": "0x295183bf7700x29518381850"
+},
+{
+ "answers": [{"answer_start": 263 , "text": "medicine.n.03"}],
+"question": "medicate.v.02,_synset_domain_topic_of",
+ "id": "0x295183bf4f00x2951833f270"
+},
+{
+ "answers": [{"answer_start": 220 , "text": "medicate.v.02"}],
+"question": "medicine.n.03,_derivationally_related_form",
+ "id": "0x295183bf4700x29518381bc0"
+},
+{
+ "answers": [{"answer_start": 263 , "text": "medicine.n.03"}],
+"question": "medicate.v.02,_derivationally_related_form",
+ "id": "0x295183bf5b00x29518381b70"
+}
+]},
+{
+"context": "false_foxglove.n.01,_hypernym,herb.n.01,_has_part,vegetable.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 30 , "text": "herb.n.01"}],
+"question": "false_foxglove.n.01,_hypernym",
+ "id": "0x2951833f2280x29517b711b0"
+},
+{
+ "answers": [{"answer_start": 50 , "text": "vegetable.n.01"}],
+"question": "herb.n.01,_has_part",
+ "id": "0x295183bf8b00x295183bf730"
+}
+]},
+{
+"context": "hare.n.01,_hypernym,leporid.n.01,_hypernym,lagomorph.n.01,_hypernym,placental.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 20 , "text": "leporid.n.01"}],
+"question": "hare.n.01,_hypernym",
+ "id": "0x295183bf5700x295183bf370"
+},
+{
+ "answers": [{"answer_start": 43 , "text": "lagomorph.n.01"}],
+"question": "leporid.n.01,_hypernym",
+ "id": "0x295183bf7700x295183bf4f0"
+},
+{
+ "answers": [{"answer_start": 68 , "text": "placental.n.01"}],
+"question": "lagomorph.n.01,_hypernym",
+ "id": "0x295183bf4700x295183bf670"
+}
+]},
+{
+"context": "refund.v.01,_hypernym,pay.v.01,_hypernym,give.v.03,_hypernym,transfer.v.05,_derivationally_related_form,transferer.n.01,_derivationally_related_form,transfer.v.05 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 22 , "text": "pay.v.01"}],
+"question": "refund.v.01,_hypernym",
+ "id": "0x295183bf4b00x295183bf430"
+},
+{
+ "answers": [{"answer_start": 41 , "text": "give.v.03"}],
+"question": "pay.v.01,_hypernym",
+ "id": "0x295183bf1300x295183bf870"
+},
+{
+ "answers": [{"answer_start": 149 , "text": "transfer.v.05"}],
+"question": "give.v.03,_hypernym",
+ "id": "0x295183bf3300x295183bf170"
+},
+{
+ "answers": [{"answer_start": 104 , "text": "transferer.n.01"}],
+"question": "transfer.v.05,_derivationally_related_form",
+ "id": "0x295183bf6300x29518381bc0"
+},
+{
+ "answers": [{"answer_start": 149 , "text": "transfer.v.05"}],
+"question": "transferer.n.01,_derivationally_related_form",
+ "id": "0x295183bf8300x29518381c60"
+}
+]},
+{
+"context": "palatability.n.01,_derivationally_related_form,palatable.a.01,_also_see,edible.a.01,_also_see,tender.a.05,_also_see,edible.a.01,_also_see,palatable.a.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 138 , "text": "palatable.a.01"}],
+"question": "palatability.n.01,_derivationally_related_form",
+ "id": "0x295183430780x29517fa21c0"
+},
+{
+ "answers": [{"answer_start": 116 , "text": "edible.a.01"}],
+"question": "palatable.a.01,_also_see",
+ "id": "0x295183bf7f00x295183bf530"
+},
+{
+ "answers": [{"answer_start": 94 , "text": "tender.a.05"}],
+"question": "edible.a.01,_also_see",
+ "id": "0x295183bf2300x295183bf370"
+},
+{
+ "answers": [{"answer_start": 116 , "text": "edible.a.01"}],
+"question": "tender.a.05,_also_see",
+ "id": "0x295183bf7700x295183bf4f0"
+},
+{
+ "answers": [{"answer_start": 138 , "text": "palatable.a.01"}],
+"question": "edible.a.01,_also_see",
+ "id": "0x295183bf2700x295183bf3f0"
+}
+]},
+{
+"context": "perform.v.03,_derivationally_related_form,performer.n.01,_derivationally_related_form,performing_arts.n.01,_hypernym,humanistic_discipline.n.01,_hypernym,discipline.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 42 , "text": "performer.n.01"}],
+"question": "perform.v.03,_derivationally_related_form",
+ "id": "0x295183bf6f00x29518381ad0"
+},
+{
+ "answers": [{"answer_start": 86 , "text": "performing_arts.n.01"}],
+"question": "performer.n.01,_derivationally_related_form",
+ "id": "0x295183bf4300x29518381d50"
+},
+{
+ "answers": [{"answer_start": 117 , "text": "humanistic_discipline.n.01"}],
+"question": "performing_arts.n.01,_hypernym",
+ "id": "0x2951833f2700x295183bf8b0"
+},
+{
+ "answers": [{"answer_start": 154 , "text": "discipline.n.01"}],
+"question": "humanistic_discipline.n.01,_hypernym",
+ "id": "0x29518381a300x295183bf570"
+}
+]},
+{
+"context": "ionization.n.02,_hypernym,natural_process.n.01,_hypernym,process.n.06 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 26 , "text": "natural_process.n.01"}],
+"question": "ionization.n.02,_hypernym",
+ "id": "0x295183bf1f00x295183bf5f0"
+},
+{
+ "answers": [{"answer_start": 57 , "text": "process.n.06"}],
+"question": "natural_process.n.01,_hypernym",
+ "id": "0x2951833f3900x295183bf130"
+}
+]},
+{
+"context": "liquefy.v.02,_derivationally_related_form,liquefaction.n.01,_derivationally_related_form,liquefy.v.02,_hypernym,change.v.01,_derivationally_related_form,change.n.06,_derivationally_related_form,change.v.03,_derivationally_related_form,version.n.02,_derivationally_related_form,change.v.03,_derivationally_related_form,change.n.06 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 42 , "text": "liquefaction.n.01"}],
+"question": "liquefy.v.02,_derivationally_related_form",
+ "id": "0x295183bf6b00x29518381620"
+},
+{
+ "answers": [{"answer_start": 89 , "text": "liquefy.v.02"}],
+"question": "liquefaction.n.01,_derivationally_related_form",
+ "id": "0x295183430780x295183816c0"
+},
+{
+ "answers": [{"answer_start": 112 , "text": "change.v.01"}],
+"question": "liquefy.v.02,_hypernym",
+ "id": "0x295183bf4300x295183bf7f0"
+},
+{
+ "answers": [{"answer_start": 318 , "text": "change.n.06"}],
+"question": "change.v.01,_derivationally_related_form",
+ "id": "0x295183bf5300x29518381760"
+},
+{
+ "answers": [{"answer_start": 277 , "text": "change.v.03"}],
+"question": "change.n.06,_derivationally_related_form",
+ "id": "0x295183bf2300x29518381710"
+},
+{
+ "answers": [{"answer_start": 235 , "text": "version.n.02"}],
+"question": "change.v.03,_derivationally_related_form",
+ "id": "0x295183bf3700x295183817b0"
+},
+{
+ "answers": [{"answer_start": 277 , "text": "change.v.03"}],
+"question": "version.n.02,_derivationally_related_form",
+ "id": "0x295183bf7700x29518381490"
+},
+{
+ "answers": [{"answer_start": 318 , "text": "change.n.06"}],
+"question": "change.v.03,_derivationally_related_form",
+ "id": "0x295183bf4f00x29518381530"
+}
+]},
+{
+"context": "perciformes.n.01,_member_meronym,cichlidae.n.01,_member_meronym,cichlid.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 33 , "text": "cichlidae.n.01"}],
+"question": "perciformes.n.01,_member_meronym",
+ "id": "0x2951833ff600x29517b711b0"
+},
+{
+ "answers": [{"answer_start": 64 , "text": "cichlid.n.01"}],
+"question": "cichlidae.n.01,_member_meronym",
+ "id": "0x295183bf8700x295183bf130"
+}
+]},
+{
+"context": "breath.n.03,_hypernym,respite.n.04,_derivationally_related_form,rest.v.02,_derivationally_related_form,rester.n.01,_derivationally_related_form,rest.v.02,_derivationally_related_form,breathing.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 22 , "text": "respite.n.04"}],
+"question": "breath.n.03,_hypernym",
+ "id": "0x295183bf5300x295183bf230"
+},
+{
+ "answers": [{"answer_start": 144 , "text": "rest.v.02"}],
+"question": "respite.n.04,_derivationally_related_form",
+ "id": "0x295183bf3700x295183814e0"
+},
+{
+ "answers": [{"answer_start": 103 , "text": "rester.n.01"}],
+"question": "rest.v.02,_derivationally_related_form",
+ "id": "0x295183bf7700x29518fec4e0"
+},
+{
+ "answers": [{"answer_start": 144 , "text": "rest.v.02"}],
+"question": "rester.n.01,_derivationally_related_form",
+ "id": "0x295183bf5f00x29518fec530"
+},
+{
+ "answers": [{"answer_start": 183 , "text": "breathing.n.01"}],
+"question": "rest.v.02,_derivationally_related_form",
+ "id": "0x295183bf4700x29518fec580"
+}
+]},
+{
+"context": "reverie.n.01,_derivationally_related_form,daydream.v.02,_hypernym,idle.v.02,_derivationally_related_form,stagnation.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 42 , "text": "daydream.v.02"}],
+"question": "reverie.n.01,_derivationally_related_form",
+ "id": "0x295183bf7f00x29518381580"
+},
+{
+ "answers": [{"answer_start": 66 , "text": "idle.v.02"}],
+"question": "daydream.v.02,_hypernym",
+ "id": "0x295183bf1300x295183bf870"
+},
+{
+ "answers": [{"answer_start": 105 , "text": "stagnation.n.01"}],
+"question": "idle.v.02,_derivationally_related_form",
+ "id": "0x295183bf7300x29518381530"
+}
+]},
+{
+"context": "africa.n.01,_has_part,djibouti.n.02,_has_part,djibouti.n.01,_instance_hypernym,port.n.01,_hypernym,geographic_point.n.01,_hypernym,point.n.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 22 , "text": "djibouti.n.02"}],
+"question": "africa.n.01,_has_part",
+ "id": "0x295183bf5f00x295183bf6b0"
+},
+{
+ "answers": [{"answer_start": 46 , "text": "djibouti.n.01"}],
+"question": "djibouti.n.02,_has_part",
+ "id": "0x295183bf4300x295183bf830"
+},
+{
+ "answers": [{"answer_start": 79 , "text": "port.n.01"}],
+"question": "djibouti.n.01,_instance_hypernym",
+ "id": "0x295183bf6700x2951833ff60"
+},
+{
+ "answers": [{"answer_start": 99 , "text": "geographic_point.n.01"}],
+"question": "port.n.01,_hypernym",
+ "id": "0x295183bf5b00x295183bf570"
+},
+{
+ "answers": [{"answer_start": 131 , "text": "point.n.02"}],
+"question": "geographic_point.n.01,_hypernym",
+ "id": "0x2951833f0300x295183bf3f0"
+}
+]},
+{
+"context": "electrical_discharge.n.01,_hypernym,discharge.n.01,_hypernym,happening.n.01,_hypernym,event.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 36 , "text": "discharge.n.01"}],
+"question": "electrical_discharge.n.01,_hypernym",
+ "id": "0x295183816200x295183bf4f0"
+},
+{
+ "answers": [{"answer_start": 61 , "text": "happening.n.01"}],
+"question": "discharge.n.01,_hypernym",
+ "id": "0x295183bf7f00x295183bf2b0"
+},
+{
+ "answers": [{"answer_start": 86 , "text": "event.n.01"}],
+"question": "happening.n.01,_hypernym",
+ "id": "0x295183bf5300x295183bf230"
+}
+]},
+{
+"context": "green_bristlegrass.n.01,_hypernym,foxtail.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 34 , "text": "foxtail.n.01"}],
+"question": "green_bristlegrass.n.01,_hypernym",
+ "id": "0x295183430780x295183bf730"
+}
+]},
+{
+"context": "leach.n.01,_derivationally_related_form,leach.v.02,_hypernym,trickle.v.01,_hypernym,run.v.06,_derivationally_related_form,course.n.03,_derivationally_related_form,run.v.06,_hypernym,move.v.03 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 40 , "text": "leach.v.02"}],
+"question": "leach.n.01,_derivationally_related_form",
+ "id": "0x295183bf4b00x29518381710"
+},
+{
+ "answers": [{"answer_start": 61 , "text": "trickle.v.01"}],
+"question": "leach.v.02,_hypernym",
+ "id": "0x295183bf1300x295183bf770"
+},
+{
+ "answers": [{"answer_start": 163 , "text": "run.v.06"}],
+"question": "trickle.v.01,_hypernym",
+ "id": "0x295183bf4300x295183bf830"
+},
+{
+ "answers": [{"answer_start": 122 , "text": "course.n.03"}],
+"question": "run.v.06,_derivationally_related_form",
+ "id": "0x295183bf6700x295183817b0"
+},
+{
+ "answers": [{"answer_start": 163 , "text": "run.v.06"}],
+"question": "course.n.03,_derivationally_related_form",
+ "id": "0x295183bf5b00x29518381490"
+},
+{
+ "answers": [{"answer_start": 182 , "text": "move.v.03"}],
+"question": "run.v.06,_hypernym",
+ "id": "0x295183bf5700x295183bf2f0"
+}
+]},
+{
+"context": "radical.n.04,_hypernym,measure.n.02,_derivationally_related_form,total.v.01,_derivationally_related_form,number.n.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 23 , "text": "measure.n.02"}],
+"question": "radical.n.04,_hypernym",
+ "id": "0x295183bf1f00x295183bf730"
+},
+{
+ "answers": [{"answer_start": 65 , "text": "total.v.01"}],
+"question": "measure.n.02,_derivationally_related_form",
+ "id": "0x295183bf4700x29518381620"
+},
+{
+ "answers": [{"answer_start": 105 , "text": "number.n.02"}],
+"question": "total.v.01,_derivationally_related_form",
+ "id": "0x295183bf3f00x29518381530"
+}
+]},
+{
+"context": "corvidae.n.01,_hypernym,bird_family.n.01,_hypernym,family.n.06,_member_meronym,tribe.n.03 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 24 , "text": "bird_family.n.01"}],
+"question": "corvidae.n.01,_hypernym",
+ "id": "0x295183bf2700x295183bf8b0"
+},
+{
+ "answers": [{"answer_start": 51 , "text": "family.n.06"}],
+"question": "bird_family.n.01,_hypernym",
+ "id": "0x295183430780x295183bf330"
+},
+{
+ "answers": [{"answer_start": 79 , "text": "tribe.n.03"}],
+"question": "family.n.06,_member_meronym",
+ "id": "0x295183bf1700x295183bf130"
+}
+]},
+{
+"context": "hindquarters.n.02,_hypernym,body_part.n.01,_hypernym,part.n.03,_hypernym,thing.n.12 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 28 , "text": "body_part.n.01"}],
+"question": "hindquarters.n.02,_hypernym",
+ "id": "0x2951833f4f80x295183bf3f0"
+},
+{
+ "answers": [{"answer_start": 53 , "text": "part.n.03"}],
+"question": "body_part.n.01,_hypernym",
+ "id": "0x295183bf5700x295183bf4b0"
+},
+{
+ "answers": [{"answer_start": 73 , "text": "thing.n.12"}],
+"question": "part.n.03,_hypernym",
+ "id": "0x295183bf8700x295183bf470"
+}
+]},
+{
+"context": "presbyopia.n.01,_hypernym,hyperopia.n.01,_hypernym,ametropia.n.01,_synset_domain_topic_of,ophthalmology.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 26 , "text": "hyperopia.n.01"}],
+"question": "presbyopia.n.01,_hypernym",
+ "id": "0x295183bf2f00x295183bf370"
+},
+{
+ "answers": [{"answer_start": 51 , "text": "ametropia.n.01"}],
+"question": "hyperopia.n.01,_hypernym",
+ "id": "0x295183bf1300x295183bf1f0"
+},
+{
+ "answers": [{"answer_start": 90 , "text": "ophthalmology.n.01"}],
+"question": "ametropia.n.01,_synset_domain_topic_of",
+ "id": "0x295183bf7300x2951833f270"
+}
+]},
+{
+"context": "cycle.n.03,_hypernym,repeat.n.01,_derivationally_related_form,duplicate.v.01,_hypernym,reproduce.v.01,_hypernym,produce.v.02,_derivationally_related_form,creation.n.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 21 , "text": "repeat.n.01"}],
+"question": "cycle.n.03,_hypernym",
+ "id": "0x295183bf7700x295183bf570"
+},
+{
+ "answers": [{"answer_start": 62 , "text": "duplicate.v.01"}],
+"question": "repeat.n.01,_derivationally_related_form",
+ "id": "0x295183bf6f00x29518381490"
+},
+{
+ "answers": [{"answer_start": 87 , "text": "reproduce.v.01"}],
+"question": "duplicate.v.01,_hypernym",
+ "id": "0x295183bf3300x295183bf830"
+},
+{
+ "answers": [{"answer_start": 112 , "text": "produce.v.02"}],
+"question": "reproduce.v.01,_hypernym",
+ "id": "0x295183bf6700x295183bf5b0"
+},
+{
+ "answers": [{"answer_start": 154 , "text": "creation.n.02"}],
+"question": "produce.v.02,_derivationally_related_form",
+ "id": "0x295183bf2300x29518381580"
+}
+]},
+{
+"context": "bronze_age.n.01,_instance_hypernym,time_period.n.01,_hypernym,fundamental_quantity.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 35 , "text": "time_period.n.01"}],
+"question": "bronze_age.n.01,_instance_hypernym",
+ "id": "0x2951838be300x29518343078"
+},
+{
+ "answers": [{"answer_start": 62 , "text": "fundamental_quantity.n.01"}],
+"question": "time_period.n.01,_hypernym",
+ "id": "0x2951833f3900x295183bf2f0"
+}
+]},
+{
+"context": "future.n.03,_hypernym,commodity.n.01,_hypernym,artifact.n.01,_hypernym,whole.n.02,_hypernym,object.n.01,_derivationally_related_form,exteriorize.v.02,_derivationally_related_form,objectification.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 22 , "text": "commodity.n.01"}],
+"question": "future.n.03,_hypernym",
+ "id": "0x295183bf4b00x295183bf830"
+},
+{
+ "answers": [{"answer_start": 47 , "text": "artifact.n.01"}],
+"question": "commodity.n.01,_hypernym",
+ "id": "0x295183bf6700x295183bf5b0"
+},
+{
+ "answers": [{"answer_start": 71 , "text": "whole.n.02"}],
+"question": "artifact.n.01,_hypernym",
+ "id": "0x295183bf3700x295183bf130"
+},
+{
+ "answers": [{"answer_start": 92 , "text": "object.n.01"}],
+"question": "whole.n.02,_hypernym",
+ "id": "0x295183bf4700x295183bf870"
+},
+{
+ "answers": [{"answer_start": 133 , "text": "exteriorize.v.02"}],
+"question": "object.n.01,_derivationally_related_form",
+ "id": "0x295183bf3f00x29518381710"
+},
+{
+ "answers": [{"answer_start": 179 , "text": "objectification.n.01"}],
+"question": "exteriorize.v.02,_derivationally_related_form",
+ "id": "0x2951833f3d80x29518381260"
+}
+]},
+{
+"context": "escherichia.n.01,_hypernym,enteric_bacteria.n.01,_hypernym,eubacteria.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 27 , "text": "enteric_bacteria.n.01"}],
+"question": "escherichia.n.01,_hypernym",
+ "id": "0x295183430780x295183bf170"
+},
+{
+ "answers": [{"answer_start": 59 , "text": "eubacteria.n.01"}],
+"question": "enteric_bacteria.n.01,_hypernym",
+ "id": "0x2951833ffa80x295183bf6b0"
+}
+]},
+{
+"context": "leaflet.n.02,_hypernym,leaf.n.01,_hypernym,plant_organ.n.01,_hypernym,plant_part.n.01,_hypernym,natural_object.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 23 , "text": "leaf.n.01"}],
+"question": "leaflet.n.02,_hypernym",
+ "id": "0x295183bf2700x295183bf130"
+},
+{
+ "answers": [{"answer_start": 43 , "text": "plant_organ.n.01"}],
+"question": "leaf.n.01,_hypernym",
+ "id": "0x295183bf4700x295183bf870"
+},
+{
+ "answers": [{"answer_start": 70 , "text": "plant_part.n.01"}],
+"question": "plant_organ.n.01,_hypernym",
+ "id": "0x2951833f2700x295183bf3f0"
+},
+{
+ "answers": [{"answer_start": 96 , "text": "natural_object.n.01"}],
+"question": "plant_part.n.01,_hypernym",
+ "id": "0x295183bf7700x295183bf730"
+}
+]},
+{
+"context": "tasty.a.01,_derivationally_related_form,taste.n.06,_derivationally_related_form,smack.v.03,_derivationally_related_form,taste.n.06,_hypernym,exteroception.n.01,_hypernym,sensitivity.n.01,_synset_domain_topic_of,physiology.n.01,_derivationally_related_form,physiologist.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 120 , "text": "taste.n.06"}],
+"question": "tasty.a.01,_derivationally_related_form",
+ "id": "0x295183bf4b00x29518381620"
+},
+{
+ "answers": [{"answer_start": 80 , "text": "smack.v.03"}],
+"question": "taste.n.06,_derivationally_related_form",
+ "id": "0x295183bf8300x295183816c0"
+},
+{
+ "answers": [{"answer_start": 120 , "text": "taste.n.06"}],
+"question": "smack.v.03,_derivationally_related_form",
+ "id": "0x295183bf6700x295183814e0"
+},
+{
+ "answers": [{"answer_start": 141 , "text": "exteroception.n.01"}],
+"question": "taste.n.06,_hypernym",
+ "id": "0x295183bf2f00x295183bf370"
+},
+{
+ "answers": [{"answer_start": 170 , "text": "sensitivity.n.01"}],
+"question": "exteroception.n.01,_hypernym",
+ "id": "0x2951833ffa80x295183bf6f0"
+},
+{
+ "answers": [{"answer_start": 211 , "text": "physiology.n.01"}],
+"question": "sensitivity.n.01,_synset_domain_topic_of",
+ "id": "0x2951833f3900x2951833f300"
+},
+{
+ "answers": [{"answer_start": 256 , "text": "physiologist.n.01"}],
+"question": "physiology.n.01,_derivationally_related_form",
+ "id": "0x295183bf3300x29518381760"
+}
+]},
+{
+"context": "give.v.37,_verb_group,give.v.18,_derivationally_related_form,consecration.n.01,_derivationally_related_form,vow.v.02,_hypernym,give.v.18,_derivationally_related_form,commitment.n.04,_derivationally_related_form,give.v.18,_derivationally_related_form,devotion.n.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 211 , "text": "give.v.18"}],
+"question": "give.v.37,_verb_group",
+ "id": "0x295183bf1700x295183bf1f0"
+},
+{
+ "answers": [{"answer_start": 61 , "text": "consecration.n.01"}],
+"question": "give.v.18,_derivationally_related_form",
+ "id": "0x295183bf4300x295183817b0"
+},
+{
+ "answers": [{"answer_start": 108 , "text": "vow.v.02"}],
+"question": "consecration.n.01,_derivationally_related_form",
+ "id": "0x2951833f3d80x29517fa21c0"
+},
+{
+ "answers": [{"answer_start": 211 , "text": "give.v.18"}],
+"question": "vow.v.02,_hypernym",
+ "id": "0x295183bf5b00x295183bf230"
+},
+{
+ "answers": [{"answer_start": 166 , "text": "commitment.n.04"}],
+"question": "give.v.18,_derivationally_related_form",
+ "id": "0x295183bf5700x29518fec5d0"
+},
+{
+ "answers": [{"answer_start": 211 , "text": "give.v.18"}],
+"question": "commitment.n.04,_derivationally_related_form",
+ "id": "0x295183bf8b00x29518fec620"
+},
+{
+ "answers": [{"answer_start": 250 , "text": "devotion.n.02"}],
+"question": "give.v.18,_derivationally_related_form",
+ "id": "0x295183bf5f00x29518fec670"
+}
+]},
+{
+"context": "sorrowful.a.01,_also_see,unhappy.a.01,_derivationally_related_form,sadness.n.01,_derivationally_related_form,unhappy.a.01,_also_see,discontented.a.01,_also_see,unhappy.a.01,_also_see,depressing.a.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 160 , "text": "unhappy.a.01"}],
+"question": "sorrowful.a.01,_also_see",
+ "id": "0x295183bf4700x295183bf870"
+},
+{
+ "answers": [{"answer_start": 67 , "text": "sadness.n.01"}],
+"question": "unhappy.a.01,_derivationally_related_form",
+ "id": "0x295183bf3f00x29518381710"
+},
+{
+ "answers": [{"answer_start": 160 , "text": "unhappy.a.01"}],
+"question": "sadness.n.01,_derivationally_related_form",
+ "id": "0x295183bf6b00x29518381530"
+},
+{
+ "answers": [{"answer_start": 132 , "text": "discontented.a.01"}],
+"question": "unhappy.a.01,_also_see",
+ "id": "0x295183bf7700x295183bf270"
+},
+{
+ "answers": [{"answer_start": 160 , "text": "unhappy.a.01"}],
+"question": "discontented.a.01,_also_see",
+ "id": "0x2951833ffa80x295183bf2b0"
+},
+{
+ "answers": [{"answer_start": 183 , "text": "depressing.a.01"}],
+"question": "unhappy.a.01,_also_see",
+ "id": "0x295183bf7f00x295183bf4f0"
+}
+]},
+{
+"context": "smear.v.02,_derivationally_related_form,smudge.n.02,_hypernym,blemish.n.01,_derivationally_related_form,deface.v.01,_derivationally_related_form,blemish.n.01,_hypernym,appearance.n.01,_hypernym,quality.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 40 , "text": "smudge.n.02"}],
+"question": "smear.v.02,_derivationally_related_form",
+ "id": "0x295183bf1f00x29518381620"
+},
+{
+ "answers": [{"answer_start": 145 , "text": "blemish.n.01"}],
+"question": "smudge.n.02,_hypernym",
+ "id": "0x295183bf2f00x295183bf130"
+},
+{
+ "answers": [{"answer_start": 104 , "text": "deface.v.01"}],
+"question": "blemish.n.01,_derivationally_related_form",
+ "id": "0x295183bf7300x295183816c0"
+},
+{
+ "answers": [{"answer_start": 145 , "text": "blemish.n.01"}],
+"question": "deface.v.01,_derivationally_related_form",
+ "id": "0x295183bf2300x295183814e0"
+},
+{
+ "answers": [{"answer_start": 168 , "text": "appearance.n.01"}],
+"question": "blemish.n.01,_hypernym",
+ "id": "0x295183bf5700x295183bf8b0"
+},
+{
+ "answers": [{"answer_start": 194 , "text": "quality.n.01"}],
+"question": "appearance.n.01,_hypernym",
+ "id": "0x295183bf7b00x295183bf1b0"
+}
+]},
+{
+"context": "transfiguration.n.01,_derivationally_related_form,transfigure.v.01,_derivationally_related_form,transfiguration.n.02,_derivationally_related_form,transfigure.v.01,_derivationally_related_form,transfiguration.n.01,_derivationally_related_form,transfigure.v.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 242 , "text": "transfigure.v.01"}],
+"question": "transfiguration.n.01,_derivationally_related_form",
+ "id": "0x295183430780x29518381260"
+},
+{
+ "answers": [{"answer_start": 96 , "text": "transfiguration.n.02"}],
+"question": "transfigure.v.01,_derivationally_related_form",
+ "id": "0x2951833f2700x295183815d0"
+},
+{
+ "answers": [{"answer_start": 242 , "text": "transfigure.v.01"}],
+"question": "transfiguration.n.02,_derivationally_related_form",
+ "id": "0x2951833ee400x295183818a0"
+},
+{
+ "answers": [{"answer_start": 192 , "text": "transfiguration.n.01"}],
+"question": "transfigure.v.01,_derivationally_related_form",
+ "id": "0x2951833ef600x29518381940"
+},
+{
+ "answers": [{"answer_start": 242 , "text": "transfigure.v.01"}],
+"question": "transfiguration.n.01,_derivationally_related_form",
+ "id": "0x2951833ed200x295183818f0"
+}
+]},
+{
+"context": "excavate.v.04,_derivationally_related_form,hole.n.05,_derivationally_related_form,hollow.a.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 43 , "text": "hole.n.05"}],
+"question": "excavate.v.04,_derivationally_related_form",
+ "id": "0x295183bf7b00x295183817b0"
+},
+{
+ "answers": [{"answer_start": 82 , "text": "hollow.a.01"}],
+"question": "hole.n.05,_derivationally_related_form",
+ "id": "0x295183bf1f00x29518381760"
+}
+]},
+{
+"context": "receptor.n.01,_hypernym,structure.n.04,_hypernym,body_part.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 24 , "text": "structure.n.04"}],
+"question": "receptor.n.01,_hypernym",
+ "id": "0x295183bf1300x295183bf8f0"
+},
+{
+ "answers": [{"answer_start": 49 , "text": "body_part.n.01"}],
+"question": "structure.n.04,_hypernym",
+ "id": "0x295183bf3700x295183bf6f0"
+}
+]},
+{
+"context": "doorway.n.01,_has_part,casing.n.03,_hypernym,framework.n.03,_hypernym,supporting_structure.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 23 , "text": "casing.n.03"}],
+"question": "doorway.n.01,_has_part",
+ "id": "0x295183bf1b00x295183bf230"
+},
+{
+ "answers": [{"answer_start": 45 , "text": "framework.n.03"}],
+"question": "casing.n.03,_hypernym",
+ "id": "0x295183bf5700x295183bf4f0"
+},
+{
+ "answers": [{"answer_start": 70 , "text": "supporting_structure.n.01"}],
+"question": "framework.n.03,_hypernym",
+ "id": "0x295183bf7f00x295183bf470"
+}
+]},
+{
+"context": "accede.v.02,_hypernym,succeed.v.02,_derivationally_related_form,successor.n.01,_hypernym,peer.n.01,_derivationally_related_form,equal.a.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 22 , "text": "succeed.v.02"}],
+"question": "accede.v.02,_hypernym",
+ "id": "0x295183bf7b00x295183bf630"
+},
+{
+ "answers": [{"answer_start": 64 , "text": "successor.n.01"}],
+"question": "succeed.v.02,_derivationally_related_form",
+ "id": "0x295183bf2f00x295183818a0"
+},
+{
+ "answers": [{"answer_start": 89 , "text": "peer.n.01"}],
+"question": "successor.n.01,_hypernym",
+ "id": "0x295183bf7300x295183bf8f0"
+},
+{
+ "answers": [{"answer_start": 128 , "text": "equal.a.01"}],
+"question": "peer.n.01,_derivationally_related_form",
+ "id": "0x295183bf8700x295183818f0"
+}
+]},
+{
+"context": "touch.n.06,_hypernym,small_indefinite_quantity.n.01,_hypernym,indefinite_quantity.n.01,_hypernym,measure.n.02,_hypernym,abstraction.n.06 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 21 , "text": "small_indefinite_quantity.n.01"}],
+"question": "touch.n.06,_hypernym",
+ "id": "0x295183bf6f00x295183bf370"
+},
+{
+ "answers": [{"answer_start": 62 , "text": "indefinite_quantity.n.01"}],
+"question": "small_indefinite_quantity.n.01,_hypernym",
+ "id": "0x29517fa21c00x295183bf130"
+},
+{
+ "answers": [{"answer_start": 97 , "text": "measure.n.02"}],
+"question": "indefinite_quantity.n.01,_hypernym",
+ "id": "0x295183812600x295183bf8b0"
+},
+{
+ "answers": [{"answer_start": 120 , "text": "abstraction.n.06"}],
+"question": "measure.n.02,_hypernym",
+ "id": "0x295183bf3300x295183bf4f0"
+}
+]},
+{
+"context": "congo.n.01,_has_part,congo.n.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 21 , "text": "congo.n.02"}],
+"question": "congo.n.01,_has_part",
+ "id": "0x295183bf1f00x295183bf170"
+}
+]},
+{
+"context": "identify.v.01,_derivationally_related_form,recognition.n.02,_hypernym,memory.n.02,_derivationally_related_form,remember.v.07,_hypernym,associate.v.01,_derivationally_related_form,connection.n.02,_derivationally_related_form,associate.v.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 43 , "text": "recognition.n.02"}],
+"question": "identify.v.01,_derivationally_related_form",
+ "id": "0x295183bf6f00x295183818f0"
+},
+{
+ "answers": [{"answer_start": 70 , "text": "memory.n.02"}],
+"question": "recognition.n.02,_hypernym",
+ "id": "0x295183430780x295183bf130"
+},
+{
+ "answers": [{"answer_start": 111 , "text": "remember.v.07"}],
+"question": "memory.n.02,_derivationally_related_form",
+ "id": "0x295183bf8b00x29518fec710"
+},
+{
+ "answers": [{"answer_start": 224 , "text": "associate.v.01"}],
+"question": "remember.v.07,_hypernym",
+ "id": "0x295183bf5700x295183bf470"
+},
+{
+ "answers": [{"answer_start": 179 , "text": "connection.n.02"}],
+"question": "associate.v.01,_derivationally_related_form",
+ "id": "0x295183bf2f00x29518fec760"
+},
+{
+ "answers": [{"answer_start": 224 , "text": "associate.v.01"}],
+"question": "connection.n.02,_derivationally_related_form",
+ "id": "0x295183bf7300x29518fec7b0"
+}
+]},
+{
+"context": "assertive.a.01,_also_see,imperative.a.01,_derivationally_related_form,imperativeness.n.01,_hypernym,urgency.n.01,_hypernym,necessity.n.01,_derivationally_related_form,necessary.a.01,_also_see,essential.a.02,_derivationally_related_form,essentiality.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 25 , "text": "imperative.a.01"}],
+"question": "assertive.a.01,_also_see",
+ "id": "0x295183bf1f00x295183bf330"
+},
+{
+ "answers": [{"answer_start": 70 , "text": "imperativeness.n.01"}],
+"question": "imperative.a.01,_derivationally_related_form",
+ "id": "0x295183bf4f00x29518381530"
+},
+{
+ "answers": [{"answer_start": 100 , "text": "urgency.n.01"}],
+"question": "imperativeness.n.01,_hypernym",
+ "id": "0x2951833f2280x295183bf7f0"
+},
+{
+ "answers": [{"answer_start": 123 , "text": "necessity.n.01"}],
+"question": "urgency.n.01,_hypernym",
+ "id": "0x295183bf1b00x295183bf630"
+},
+{
+ "answers": [{"answer_start": 167 , "text": "necessary.a.01"}],
+"question": "necessity.n.01,_derivationally_related_form",
+ "id": "0x295183bf8700x29518381260"
+},
+{
+ "answers": [{"answer_start": 192 , "text": "essential.a.02"}],
+"question": "necessary.a.01,_also_see",
+ "id": "0x295183bf6700x295183bf5f0"
+},
+{
+ "answers": [{"answer_start": 236 , "text": "essentiality.n.01"}],
+"question": "essential.a.02,_derivationally_related_form",
+ "id": "0x295183bf3f00x29518381940"
+}
+]},
+{
+"context": "collegian.n.01,_hypernym,student.n.01,_derivationally_related_form,study.v.02,_derivationally_related_form,student.n.01,_derivationally_related_form,educate.v.01,_derivationally_related_form,education.n.01,_derivationally_related_form,educate.v.01,_derivationally_related_form,education.n.04,_derivationally_related_form,educationist.n.01,_derivationally_related_form,education.n.04,_derivationally_related_form,train.v.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 107 , "text": "student.n.01"}],
+"question": "collegian.n.01,_hypernym",
+ "id": "0x295183bf7b00x295183bf370"
+},
+{
+ "answers": [{"answer_start": 67 , "text": "study.v.02"}],
+"question": "student.n.01,_derivationally_related_form",
+ "id": "0x295183bf1700x29518feca30"
+},
+{
+ "answers": [{"answer_start": 107 , "text": "student.n.01"}],
+"question": "study.v.02,_derivationally_related_form",
+ "id": "0x295183bf4300x29518feca80"
+},
+{
+ "answers": [{"answer_start": 235 , "text": "educate.v.01"}],
+"question": "student.n.01,_derivationally_related_form",
+ "id": "0x295183bf5b00x29518fecad0"
+},
+{
+ "answers": [{"answer_start": 191 , "text": "education.n.01"}],
+"question": "educate.v.01,_derivationally_related_form",
+ "id": "0x295183bf2f00x29518fecb20"
+},
+{
+ "answers": [{"answer_start": 235 , "text": "educate.v.01"}],
+"question": "education.n.01,_derivationally_related_form",
+ "id": "0x295183bf6b00x29518fecb70"
+},
+{
+ "answers": [{"answer_start": 368 , "text": "education.n.04"}],
+"question": "educate.v.01,_derivationally_related_form",
+ "id": "0x295183bf7700x29518fecbc0"
+},
+{
+ "answers": [{"answer_start": 321 , "text": "educationist.n.01"}],
+"question": "education.n.04,_derivationally_related_form",
+ "id": "0x295183bf2700x29518fecc10"
+},
+{
+ "answers": [{"answer_start": 368 , "text": "education.n.04"}],
+"question": "educationist.n.01,_derivationally_related_form",
+ "id": "0x2951833f4f80x29518fecc60"
+},
+{
+ "answers": [{"answer_start": 412 , "text": "train.v.01"}],
+"question": "education.n.04,_derivationally_related_form",
+ "id": "0x295183bf2b00x29518feccb0"
+}
+]},
+{
+"context": "ocean.n.01,_hypernym,body_of_water.n.01,_synset_domain_topic_of,lake.n.01,_has_part,inlet.n.01,_hypernym,body_of_water.n.01,_synset_domain_topic_of,river.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 105 , "text": "body_of_water.n.01"}],
+"question": "ocean.n.01,_hypernym",
+ "id": "0x295183bf7f00x295183bf1f0"
+},
+{
+ "answers": [{"answer_start": 64 , "text": "lake.n.01"}],
+"question": "body_of_water.n.01,_synset_domain_topic_of",
+ "id": "0x2951833ff600x2951833f3d8"
+},
+{
+ "answers": [{"answer_start": 84 , "text": "inlet.n.01"}],
+"question": "lake.n.01,_has_part",
+ "id": "0x295183bf1b00x295183bf630"
+},
+{
+ "answers": [{"answer_start": 105 , "text": "body_of_water.n.01"}],
+"question": "inlet.n.01,_hypernym",
+ "id": "0x295183bf8700x295183bf830"
+},
+{
+ "answers": [{"answer_start": 148 , "text": "river.n.01"}],
+"question": "body_of_water.n.01,_synset_domain_topic_of",
+ "id": "0x2951833f1980x2951833f270"
+}
+]},
+{
+"context": "confederacy.n.01,_member_meronym,mississippi.n.02,_has_part,tombigbee.n.01,_instance_hypernym,river.n.01,_has_part,estuary.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 33 , "text": "mississippi.n.02"}],
+"question": "confederacy.n.01,_member_meronym",
+ "id": "0x295183430780x295183bf930"
+},
+{
+ "answers": [{"answer_start": 60 , "text": "tombigbee.n.01"}],
+"question": "mississippi.n.02,_has_part",
+ "id": "0x2951833f4f80x295183bf5f0"
+},
+{
+ "answers": [{"answer_start": 94 , "text": "river.n.01"}],
+"question": "tombigbee.n.01,_instance_hypernym",
+ "id": "0x295183bf5300x2951833f030"
+},
+{
+ "answers": [{"answer_start": 115 , "text": "estuary.n.01"}],
+"question": "river.n.01,_has_part",
+ "id": "0x295183bf4b00x295183bf3f0"
+}
+]},
+{
+"context": "capsule.n.02,_hypernym,pill.n.02,_hypernym,dose.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 23 , "text": "pill.n.02"}],
+"question": "capsule.n.02,_hypernym",
+ "id": "0x295183bf2b00x295183bf670"
+},
+{
+ "answers": [{"answer_start": 43 , "text": "dose.n.01"}],
+"question": "pill.n.02,_hypernym",
+ "id": "0x295183bf8b00x295183bf7f0"
+}
+]},
+{
+"context": "landscape.v.01,_synset_domain_topic_of,gardening.n.01,_hypernym,farming.n.01,_hypernym,cultivation.n.02,_hypernym,production.n.07 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 39 , "text": "gardening.n.01"}],
+"question": "landscape.v.01,_synset_domain_topic_of",
+ "id": "0x295183bf6300x2951833f348"
+},
+{
+ "answers": [{"answer_start": 64 , "text": "farming.n.01"}],
+"question": "gardening.n.01,_hypernym",
+ "id": "0x295183bf8700x295183bf930"
+},
+{
+ "answers": [{"answer_start": 87 , "text": "cultivation.n.02"}],
+"question": "farming.n.01,_hypernym",
+ "id": "0x295183bf5f00x295183bf530"
+},
+{
+ "answers": [{"answer_start": 114 , "text": "production.n.07"}],
+"question": "cultivation.n.02,_hypernym",
+ "id": "0x2951833f1980x295183bf7b0"
+}
+]},
+{
+"context": "piracy.n.01,_derivationally_related_form,commandeer.v.01,_derivationally_related_form,highjacking.n.01,_derivationally_related_form,commandeer.v.01,_derivationally_related_form,highjacker.n.01,_synset_domain_topic_of,airplane.n.01,_has_part,windshield.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 132 , "text": "commandeer.v.01"}],
+"question": "piracy.n.01,_derivationally_related_form",
+ "id": "0x295183bf3f00x29518381580"
+},
+{
+ "answers": [{"answer_start": 86 , "text": "highjacking.n.01"}],
+"question": "commandeer.v.01,_derivationally_related_form",
+ "id": "0x295183bf4b00x295183815d0"
+},
+{
+ "answers": [{"answer_start": 132 , "text": "commandeer.v.01"}],
+"question": "highjacking.n.01,_derivationally_related_form",
+ "id": "0x2951833ff600x29518381760"
+},
+{
+ "answers": [{"answer_start": 177 , "text": "highjacker.n.01"}],
+"question": "commandeer.v.01,_derivationally_related_form",
+ "id": "0x295183bf3300x295183817b0"
+},
+{
+ "answers": [{"answer_start": 217 , "text": "airplane.n.01"}],
+"question": "highjacker.n.01,_synset_domain_topic_of",
+ "id": "0x295183bf3700x2951833f3d8"
+},
+{
+ "answers": [{"answer_start": 241 , "text": "windshield.n.01"}],
+"question": "airplane.n.01,_has_part",
+ "id": "0x295183bf8300x295183bf170"
+}
+]},
+{
+"context": "heating_system.n.01,_has_part,boiler.n.01,_derivationally_related_form,boil.v.01,_derivationally_related_form,boiler.n.01,_hypernym,vessel.n.03,_has_part,brim.n.01,_derivationally_related_form,brim.v.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 110 , "text": "boiler.n.01"}],
+"question": "heating_system.n.01,_has_part",
+ "id": "0x295183430780x295183bf870"
+},
+{
+ "answers": [{"answer_start": 71 , "text": "boil.v.01"}],
+"question": "boiler.n.01,_derivationally_related_form",
+ "id": "0x295183bf9300x295183818f0"
+},
+{
+ "answers": [{"answer_start": 110 , "text": "boiler.n.01"}],
+"question": "boil.v.01,_derivationally_related_form",
+ "id": "0x295183bf2b00x29518381940"
+},
+{
+ "answers": [{"answer_start": 132 , "text": "vessel.n.03"}],
+"question": "boiler.n.01,_hypernym",
+ "id": "0x295183bf6700x295183bf1f0"
+},
+{
+ "answers": [{"answer_start": 154 , "text": "brim.n.01"}],
+"question": "vessel.n.03,_has_part",
+ "id": "0x295183bf5b00x295183bf2f0"
+},
+{
+ "answers": [{"answer_start": 193 , "text": "brim.v.02"}],
+"question": "brim.n.01,_derivationally_related_form",
+ "id": "0x295183bf6b00x29518381530"
+}
+]},
+{
+"context": "cap.n.04,_hypernym,protective_covering.n.01,_derivationally_related_form,protect.v.01,_hypernym,defend.v.02,_hypernym,prevent.v.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 19 , "text": "protective_covering.n.01"}],
+"question": "cap.n.04,_hypernym",
+ "id": "0x295183bf1700x295183bf4b0"
+},
+{
+ "answers": [{"answer_start": 73 , "text": "protect.v.01"}],
+"question": "protective_covering.n.01,_derivationally_related_form",
+ "id": "0x29517fa21c00x295183818a0"
+},
+{
+ "answers": [{"answer_start": 96 , "text": "defend.v.02"}],
+"question": "protect.v.01,_hypernym",
+ "id": "0x295183bf7f00x295183bf8b0"
+},
+{
+ "answers": [{"answer_start": 118 , "text": "prevent.v.02"}],
+"question": "defend.v.02,_hypernym",
+ "id": "0x295183bf1b00x295183bf4f0"
+}
+]},
+{
+"context": "tussilago.n.01,_hypernym,asterid_dicot_genus.n.01,_hypernym,dicot_genus.n.01,_hypernym,genus.n.02,_synset_domain_topic_of,biology.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 25 , "text": "asterid_dicot_genus.n.01"}],
+"question": "tussilago.n.01,_hypernym",
+ "id": "0x295183bf7700x295183bf3f0"
+},
+{
+ "answers": [{"answer_start": 60 , "text": "dicot_genus.n.01"}],
+"question": "asterid_dicot_genus.n.01,_hypernym",
+ "id": "0x295183817100x295183bf330"
+},
+{
+ "answers": [{"answer_start": 87 , "text": "genus.n.02"}],
+"question": "dicot_genus.n.01,_hypernym",
+ "id": "0x2951833f3d80x295183bf370"
+},
+{
+ "answers": [{"answer_start": 122 , "text": "biology.n.01"}],
+"question": "genus.n.02,_synset_domain_topic_of",
+ "id": "0x295183bf6300x2951833f300"
+}
+]},
+{
+"context": "burp.v.01,_hypernym,emit.v.01,_derivationally_related_form,emission.n.01,_derivationally_related_form,emanate.v.01,_derivationally_related_form,emission.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 20 , "text": "emit.v.01"}],
+"question": "burp.v.01,_hypernym",
+ "id": "0x295183bf4300x295183bf4f0"
+},
+{
+ "answers": [{"answer_start": 144 , "text": "emission.n.01"}],
+"question": "emit.v.01,_derivationally_related_form",
+ "id": "0x295183bf5f00x29518381940"
+},
+{
+ "answers": [{"answer_start": 102 , "text": "emanate.v.01"}],
+"question": "emission.n.01,_derivationally_related_form",
+ "id": "0x295183bf8700x29518381620"
+},
+{
+ "answers": [{"answer_start": 144 , "text": "emission.n.01"}],
+"question": "emanate.v.01,_derivationally_related_form",
+ "id": "0x295183bf9300x295183816c0"
+}
+]},
+{
+"context": "liliales.n.01,_member_meronym,iridaceae.n.01,_member_meronym,iridaceous_plant.n.01,_hypernym,bulbous_plant.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 30 , "text": "iridaceae.n.01"}],
+"question": "liliales.n.01,_member_meronym",
+ "id": "0x295183bf6b00x295183bf830"
+},
+{
+ "answers": [{"answer_start": 61 , "text": "iridaceous_plant.n.01"}],
+"question": "iridaceae.n.01,_member_meronym",
+ "id": "0x295183bf6300x295183bf770"
+},
+{
+ "answers": [{"answer_start": 93 , "text": "bulbous_plant.n.01"}],
+"question": "iridaceous_plant.n.01,_hypernym",
+ "id": "0x2951833f3000x295183bf1b0"
+}
+]},
+{
+"context": "roosevelt.n.01,_instance_hypernym,president_of_the_united_states.n.01,_derivationally_related_form,presidential.a.01,_derivationally_related_form,president.n.01,_hypernym,corporate_executive.n.01,_hypernym,executive.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 34 , "text": "president_of_the_united_states.n.01"}],
+"question": "roosevelt.n.01,_instance_hypernym",
+ "id": "0x295183bf3700x2951833ff60"
+},
+{
+ "answers": [{"answer_start": 99 , "text": "presidential.a.01"}],
+"question": "president_of_the_united_states.n.01,_derivationally_related_form",
+ "id": "0x29518346e480x29518381800"
+},
+{
+ "answers": [{"answer_start": 146 , "text": "president.n.01"}],
+"question": "presidential.a.01,_derivationally_related_form",
+ "id": "0x2951833f4f80x29518381a30"
+},
+{
+ "answers": [{"answer_start": 171 , "text": "corporate_executive.n.01"}],
+"question": "president.n.01,_hypernym",
+ "id": "0x295183bf9300x295183bf430"
+},
+{
+ "answers": [{"answer_start": 206 , "text": "executive.n.01"}],
+"question": "corporate_executive.n.01,_hypernym",
+ "id": "0x29518381ad00x295183bf4f0"
+}
+]},
+{
+"context": "cookstove.n.01,_has_part,water_back.n.01,_hypernym,water_heater.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 25 , "text": "water_back.n.01"}],
+"question": "cookstove.n.01,_has_part",
+ "id": "0x29517b711b00x295183bf1b0"
+},
+{
+ "answers": [{"answer_start": 51 , "text": "water_heater.n.01"}],
+"question": "water_back.n.01,_hypernym",
+ "id": "0x295183bf5300x295183bf330"
+}
+]},
+{
+"context": "colloquialism.n.01,_member_of_domain_usage,delf.n.01,_hypernym,excavation.n.03,_derivationally_related_form,excavate.v.03,_derivationally_related_form,power_shovel.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 43 , "text": "delf.n.01"}],
+"question": "colloquialism.n.01,_member_of_domain_usage",
+ "id": "0x2951833f1980x2951833ff60"
+},
+{
+ "answers": [{"answer_start": 63 , "text": "excavation.n.03"}],
+"question": "delf.n.01,_hypernym",
+ "id": "0x295183bf6300x295183bf4f0"
+},
+{
+ "answers": [{"answer_start": 108 , "text": "excavate.v.03"}],
+"question": "excavation.n.03,_derivationally_related_form",
+ "id": "0x295183bf3700x29518381b20"
+},
+{
+ "answers": [{"answer_start": 151 , "text": "power_shovel.n.01"}],
+"question": "excavate.v.03,_derivationally_related_form",
+ "id": "0x295183bf9300x29518381d00"
+}
+]},
+{
+"context": "balkan_country.n.01,_hypernym,european_country.n.01,_hypernym,country.n.02,_has_part,domain.n.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 30 , "text": "european_country.n.01"}],
+"question": "balkan_country.n.01,_hypernym",
+ "id": "0x295183430780x295183bf330"
+},
+{
+ "answers": [{"answer_start": 62 , "text": "country.n.02"}],
+"question": "european_country.n.01,_hypernym",
+ "id": "0x2951833f0300x295183bf3f0"
+},
+{
+ "answers": [{"answer_start": 85 , "text": "domain.n.02"}],
+"question": "country.n.02,_has_part",
+ "id": "0x295183bf1b00x295183bf430"
+}
+]},
+{
+"context": "apologist.n.01,_derivationally_related_form,justify.v.02,_derivationally_related_form,justification.n.02,_derivationally_related_form,justify.v.01,_derivationally_related_form,justification.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 44 , "text": "justify.v.02"}],
+"question": "apologist.n.01,_derivationally_related_form",
+ "id": "0x295183bf6b00x29518381a80"
+},
+{
+ "answers": [{"answer_start": 86 , "text": "justification.n.02"}],
+"question": "justify.v.02,_derivationally_related_form",
+ "id": "0x295183bf8300x29518381c10"
+},
+{
+ "answers": [{"answer_start": 134 , "text": "justify.v.01"}],
+"question": "justification.n.02,_derivationally_related_form",
+ "id": "0x2951833ff600x29518381cb0"
+},
+{
+ "answers": [{"answer_start": 176 , "text": "justification.n.01"}],
+"question": "justify.v.01,_derivationally_related_form",
+ "id": "0x295183bf5f00x29518381e40"
+}
+]},
+{
+"context": "conversion_disorder.n.01,_hypernym,mental_disorder.n.01,_synset_domain_topic_of,psychiatry.n.01,_hypernym,medicine.n.01,_hypernym,medical_science.n.01,_hypernym,life_science.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 35 , "text": "mental_disorder.n.01"}],
+"question": "conversion_disorder.n.01,_hypernym",
+ "id": "0x29518381c600x295183bf4f0"
+},
+{
+ "answers": [{"answer_start": 80 , "text": "psychiatry.n.01"}],
+"question": "mental_disorder.n.01,_synset_domain_topic_of",
+ "id": "0x295183430780x2951833ffa8"
+},
+{
+ "answers": [{"answer_start": 106 , "text": "medicine.n.01"}],
+"question": "psychiatry.n.01,_hypernym",
+ "id": "0x295183bf3300x295183bf3f0"
+},
+{
+ "answers": [{"answer_start": 130 , "text": "medical_science.n.01"}],
+"question": "medicine.n.01,_hypernym",
+ "id": "0x295183bf9300x295183bf530"
+},
+{
+ "answers": [{"answer_start": 161 , "text": "life_science.n.01"}],
+"question": "medical_science.n.01,_hypernym",
+ "id": "0x2951833ec480x295183bf370"
+}
+]},
+{
+"context": "feast.v.01,_hypernym,eat.v.02,_hypernym,consume.v.02,_derivationally_related_form,consumptive.a.01,_derivationally_related_form,consume.v.05,_derivationally_related_form,exhaustion.n.03 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 21 , "text": "eat.v.02"}],
+"question": "feast.v.01,_hypernym",
+ "id": "0x295183bf5f00x295183bf170"
+},
+{
+ "answers": [{"answer_start": 40 , "text": "consume.v.02"}],
+"question": "eat.v.02,_hypernym",
+ "id": "0x295183bf6300x295183bf4b0"
+},
+{
+ "answers": [{"answer_start": 82 , "text": "consumptive.a.01"}],
+"question": "consume.v.02,_derivationally_related_form",
+ "id": "0x295183bf7b00x29518391e40"
+},
+{
+ "answers": [{"answer_start": 128 , "text": "consume.v.05"}],
+"question": "consumptive.a.01,_derivationally_related_form",
+ "id": "0x2951833f3900x29518391e90"
+},
+{
+ "answers": [{"answer_start": 170 , "text": "exhaustion.n.03"}],
+"question": "consume.v.05,_derivationally_related_form",
+ "id": "0x295183bf7f00x29518391ee0"
+}
+]},
+{
+"context": "tetraonidae.n.01,_member_meronym,centrocercus.n.01,_hypernym,bird_genus.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 33 , "text": "centrocercus.n.01"}],
+"question": "tetraonidae.n.01,_member_meronym",
+ "id": "0x295183430780x295183bf1b0"
+},
+{
+ "answers": [{"answer_start": 61 , "text": "bird_genus.n.01"}],
+"question": "centrocercus.n.01,_hypernym",
+ "id": "0x2951833ffa80x295183bf6b0"
+}
+]},
+{
+"context": "korea.n.01,_has_part,north_korea.n.01,_member_of_domain_region,yalu_river.n.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 21 , "text": "north_korea.n.01"}],
+"question": "korea.n.01,_has_part",
+ "id": "0x295182fbdb00x295183bf4f0"
+},
+{
+ "answers": [{"answer_start": 63 , "text": "yalu_river.n.02"}],
+"question": "north_korea.n.01,_member_of_domain_region",
+ "id": "0x2951833f0300x29518391f30"
+}
+]},
+{
+"context": "pop.v.12,_hypernym,collapse.v.05,_verb_group,collapse.v.01,_hypernym,change.v.02,_derivationally_related_form,change.n.06,_hypernym,thing.n.08 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 19 , "text": "collapse.v.05"}],
+"question": "pop.v.12,_hypernym",
+ "id": "0x295183bf6300x295183bf7b0"
+},
+{
+ "answers": [{"answer_start": 45 , "text": "collapse.v.01"}],
+"question": "collapse.v.05,_verb_group",
+ "id": "0x295183bf8700x295183bf770"
+},
+{
+ "answers": [{"answer_start": 69 , "text": "change.v.02"}],
+"question": "collapse.v.01,_hypernym",
+ "id": "0x295183bf4300x295183bf930"
+},
+{
+ "answers": [{"answer_start": 110 , "text": "change.n.06"}],
+"question": "change.v.02,_derivationally_related_form",
+ "id": "0x295183bf5300x29518391ee0"
+},
+{
+ "answers": [{"answer_start": 132 , "text": "thing.n.08"}],
+"question": "change.n.06,_hypernym",
+ "id": "0x295183bf2b00x295183bf670"
+}
+]},
+{
+"context": "storyteller.n.02,_derivationally_related_form,fabricate.v.02,_hypernym,think_up.v.01,_derivationally_related_form,concoction.n.03,_derivationally_related_form,think_up.v.01,_hypernym,create_by_mental_act.v.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 46 , "text": "fabricate.v.02"}],
+"question": "storyteller.n.02,_derivationally_related_form",
+ "id": "0x295183430780x29518fecad0"
+},
+{
+ "answers": [{"answer_start": 159 , "text": "think_up.v.01"}],
+"question": "fabricate.v.02,_hypernym",
+ "id": "0x295183bf6b00x295183bf1b0"
+},
+{
+ "answers": [{"answer_start": 114 , "text": "concoction.n.03"}],
+"question": "think_up.v.01,_derivationally_related_form",
+ "id": "0x295183bf3700x29518fecb20"
+},
+{
+ "answers": [{"answer_start": 159 , "text": "think_up.v.01"}],
+"question": "concoction.n.03,_derivationally_related_form",
+ "id": "0x295183bf7f00x29518fecb70"
+},
+{
+ "answers": [{"answer_start": 183 , "text": "create_by_mental_act.v.01"}],
+"question": "think_up.v.01,_hypernym",
+ "id": "0x295183bf3f00x295183bf5f0"
+}
+]},
+{
+"context": "chiffonier.n.01,_has_part,drawer.n.01,_derivationally_related_form,draw.v.05,_verb_group,pull.v.17,_verb_group,draw.v.05,_verb_group,draw.v.07,_derivationally_related_form,drawing.n.05 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 26 , "text": "drawer.n.01"}],
+"question": "chiffonier.n.01,_has_part",
+ "id": "0x295183bf2f00x295183bf330"
+},
+{
+ "answers": [{"answer_start": 111 , "text": "draw.v.05"}],
+"question": "drawer.n.01,_derivationally_related_form",
+ "id": "0x295183bf7700x29518391e40"
+},
+{
+ "answers": [{"answer_start": 89 , "text": "pull.v.17"}],
+"question": "draw.v.05,_verb_group",
+ "id": "0x295183bf4300x295183bf930"
+},
+{
+ "answers": [{"answer_start": 111 , "text": "draw.v.05"}],
+"question": "pull.v.17,_verb_group",
+ "id": "0x295183bf5300x295183bf170"
+},
+{
+ "answers": [{"answer_start": 133 , "text": "draw.v.07"}],
+"question": "draw.v.05,_verb_group",
+ "id": "0x295183bf8b00x295183bf270"
+},
+{
+ "answers": [{"answer_start": 172 , "text": "drawing.n.05"}],
+"question": "draw.v.07,_derivationally_related_form",
+ "id": "0x295183bf5700x29518391f30"
+}
+]},
+{
+"context": "hipposideridae.n.01,_hypernym,mammal_family.n.01,_hypernym,family.n.06,_member_meronym,rhabdoviridae.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 30 , "text": "mammal_family.n.01"}],
+"question": "hipposideridae.n.01,_hypernym",
+ "id": "0x2951833f3000x295183bf3f0"
+},
+{
+ "answers": [{"answer_start": 59 , "text": "family.n.06"}],
+"question": "mammal_family.n.01,_hypernym",
+ "id": "0x2951833f2280x295183bf6b0"
+},
+{
+ "answers": [{"answer_start": 87 , "text": "rhabdoviridae.n.01"}],
+"question": "family.n.06,_member_meronym",
+ "id": "0x295183bf1b00x295183bf370"
+}
+]},
+{
+"context": "embezzle.v.01,_derivationally_related_form,malversation.n.01,_hypernym,wrongdoing.n.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 43 , "text": "malversation.n.01"}],
+"question": "embezzle.v.01,_derivationally_related_form",
+ "id": "0x295183bf5700x29517fa21c0"
+},
+{
+ "answers": [{"answer_start": 71 , "text": "wrongdoing.n.02"}],
+"question": "malversation.n.01,_hypernym",
+ "id": "0x295183430780x295183bf5f0"
+}
+]},
+{
+"context": "knock.v.01,_derivationally_related_form,knock.n.05,_derivationally_related_form,whang.v.01,_hypernym,beat.v.03,_derivationally_related_form,beat.n.06 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 40 , "text": "knock.n.05"}],
+"question": "knock.v.01,_derivationally_related_form",
+ "id": "0x295183bf6b00x29518391ee0"
+},
+{
+ "answers": [{"answer_start": 80 , "text": "whang.v.01"}],
+"question": "knock.n.05,_derivationally_related_form",
+ "id": "0x295183bf3300x29518fecc10"
+},
+{
+ "answers": [{"answer_start": 101 , "text": "beat.v.03"}],
+"question": "whang.v.01,_hypernym",
+ "id": "0x295183bf7700x295183bf430"
+},
+{
+ "answers": [{"answer_start": 140 , "text": "beat.n.06"}],
+"question": "beat.v.03,_derivationally_related_form",
+ "id": "0x295183bf9300x29518fecc60"
+}
+]},
+{
+"context": "audit.v.01,_derivationally_related_form,scrutinizer.n.01,_hypernym,examiner.n.02,_derivationally_related_form,inspectorship.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 40 , "text": "scrutinizer.n.01"}],
+"question": "audit.v.01,_derivationally_related_form",
+ "id": "0x295183bf2f00x29518391f30"
+},
+{
+ "answers": [{"answer_start": 67 , "text": "examiner.n.02"}],
+"question": "scrutinizer.n.01,_hypernym",
+ "id": "0x295183430780x295183bf5f0"
+},
+{
+ "answers": [{"answer_start": 110 , "text": "inspectorship.n.01"}],
+"question": "examiner.n.02,_derivationally_related_form",
+ "id": "0x295183bf5700x29518391e40"
+}
+]},
+{
+"context": "himantopus.n.01,_member_meronym,white-headed_stilt.n.01,_hypernym,stilt.n.04,_hypernym,shorebird.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 32 , "text": "white-headed_stilt.n.01"}],
+"question": "himantopus.n.01,_member_meronym",
+ "id": "0x295183bf1700x295183bf770"
+},
+{
+ "answers": [{"answer_start": 66 , "text": "stilt.n.04"}],
+"question": "white-headed_stilt.n.01,_hypernym",
+ "id": "0x2951833ffa80x295183bf430"
+},
+{
+ "answers": [{"answer_start": 87 , "text": "shorebird.n.01"}],
+"question": "stilt.n.04,_hypernym",
+ "id": "0x295183bf4700x295183bf370"
+}
+]},
+{
+"context": "sailboat.n.01,_hypernym,sailing_vessel.n.01,_hypernym,vessel.n.02,_has_part,hull.n.06,_hypernym,structure.n.01,_has_part,structural_member.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 24 , "text": "sailing_vessel.n.01"}],
+"question": "sailboat.n.01,_hypernym",
+ "id": "0x295183bf7f00x295183bf4f0"
+},
+{
+ "answers": [{"answer_start": 54 , "text": "vessel.n.02"}],
+"question": "sailing_vessel.n.01,_hypernym",
+ "id": "0x2951833f0300x295183bf270"
+},
+{
+ "answers": [{"answer_start": 76 , "text": "hull.n.06"}],
+"question": "vessel.n.02,_has_part",
+ "id": "0x295183bf6300x295183bf7b0"
+},
+{
+ "answers": [{"answer_start": 96 , "text": "structure.n.01"}],
+"question": "hull.n.06,_hypernym",
+ "id": "0x295183bf8700x295183bf5b0"
+},
+{
+ "answers": [{"answer_start": 121 , "text": "structural_member.n.01"}],
+"question": "structure.n.01,_has_part",
+ "id": "0x295183bf1f00x295183bf670"
+}
+]},
+{
+"context": "systematization.n.01,_hypernym,organization.n.06,_hypernym,activity.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 31 , "text": "organization.n.06"}],
+"question": "systematization.n.01,_hypernym",
+ "id": "0x2951833f3d80x295183bf570"
+},
+{
+ "answers": [{"answer_start": 59 , "text": "activity.n.01"}],
+"question": "organization.n.06,_hypernym",
+ "id": "0x2951833f3000x295183bf2f0"
+}
+]},
+{
+"context": "lap.n.04,_hypernym,flap.n.01,_hypernym,covering.n.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 19 , "text": "flap.n.01"}],
+"question": "lap.n.04,_hypernym",
+ "id": "0x2951838be300x29517b711b0"
+},
+{
+ "answers": [{"answer_start": 39 , "text": "covering.n.02"}],
+"question": "flap.n.01,_hypernym",
+ "id": "0x295183bf2700x295183bf630"
+}
+]},
+{
+"context": "space.v.01,_derivationally_related_form,spacing.n.02,_hypernym,placement.n.01,_derivationally_related_form,arrange.v.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 40 , "text": "spacing.n.02"}],
+"question": "space.v.01,_derivationally_related_form",
+ "id": "0x295183bf4700x29518391f80"
+},
+{
+ "answers": [{"answer_start": 63 , "text": "placement.n.01"}],
+"question": "spacing.n.02,_hypernym",
+ "id": "0x295183bf4f00x295183bf7f0"
+},
+{
+ "answers": [{"answer_start": 107 , "text": "arrange.v.01"}],
+"question": "placement.n.01,_derivationally_related_form",
+ "id": "0x295183bf8700x29518381c60"
+}
+]},
+{
+"context": "geraniales.n.01,_member_meronym,meliaceae.n.01,_member_meronym,entandrophragma.n.01,_member_meronym,african_scented_mahogany.n.01,_hypernym,mahogany.n.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 32 , "text": "meliaceae.n.01"}],
+"question": "geraniales.n.01,_member_meronym",
+ "id": "0x295183bf2f00x295183bf570"
+},
+{
+ "answers": [{"answer_start": 63 , "text": "entandrophragma.n.01"}],
+"question": "meliaceae.n.01,_member_meronym",
+ "id": "0x295183bf3f00x295183bf670"
+},
+{
+ "answers": [{"answer_start": 100 , "text": "african_scented_mahogany.n.01"}],
+"question": "entandrophragma.n.01,_member_meronym",
+ "id": "0x295183430780x295183bf370"
+},
+{
+ "answers": [{"answer_start": 140 , "text": "mahogany.n.02"}],
+"question": "african_scented_mahogany.n.01,_hypernym",
+ "id": "0x29518391e900x295183bf5f0"
+}
+]},
+{
+"context": "fuel_system.n.01,_has_part,carburetor.n.01,_hypernym,mechanical_device.n.01,_hypernym,mechanism.n.05 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 27 , "text": "carburetor.n.01"}],
+"question": "fuel_system.n.01,_has_part",
+ "id": "0x2951833f3000x295183bf630"
+},
+{
+ "answers": [{"answer_start": 53 , "text": "mechanical_device.n.01"}],
+"question": "carburetor.n.01,_hypernym",
+ "id": "0x295183bf2700x295183bf4f0"
+},
+{
+ "answers": [{"answer_start": 86 , "text": "mechanism.n.05"}],
+"question": "mechanical_device.n.01,_hypernym",
+ "id": "0x2951833f2700x295183bf7f0"
+}
+]},
+{
+"context": "delete.v.01,_derivationally_related_form,deletion.n.04,_derivationally_related_form,edit.v.04,_derivationally_related_form,deletion.n.03,_derivationally_related_form,delete.v.01,_derivationally_related_form,deletion.n.04,_hypernym,removal.n.01,_derivationally_related_form,get_rid_of.v.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 207 , "text": "deletion.n.04"}],
+"question": "delete.v.01,_derivationally_related_form",
+ "id": "0x295183bf4700x29518381c10"
+},
+{
+ "answers": [{"answer_start": 84 , "text": "edit.v.04"}],
+"question": "deletion.n.04,_derivationally_related_form",
+ "id": "0x295183bf1b00x29518381cb0"
+},
+{
+ "answers": [{"answer_start": 123 , "text": "deletion.n.03"}],
+"question": "edit.v.04,_derivationally_related_form",
+ "id": "0x295183bf3f00x29518381df0"
+},
+{
+ "answers": [{"answer_start": 166 , "text": "delete.v.01"}],
+"question": "deletion.n.03,_derivationally_related_form",
+ "id": "0x295183bf6700x29518381850"
+},
+{
+ "answers": [{"answer_start": 207 , "text": "deletion.n.04"}],
+"question": "delete.v.01,_derivationally_related_form",
+ "id": "0x295183bf3700x29518381b70"
+},
+{
+ "answers": [{"answer_start": 231 , "text": "removal.n.01"}],
+"question": "deletion.n.04,_hypernym",
+ "id": "0x295183bf9300x295183bf6b0"
+},
+{
+ "answers": [{"answer_start": 273 , "text": "get_rid_of.v.01"}],
+"question": "removal.n.01,_derivationally_related_form",
+ "id": "0x295183bf8b00x29518381bc0"
+}
+]},
+{
+"context": "chad.n.01,_hypernym,paper.n.01,_hypernym,material.n.01,_hypernym,substance.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 20 , "text": "paper.n.01"}],
+"question": "chad.n.01,_hypernym",
+ "id": "0x295183bf4f00x295183bf270"
+},
+{
+ "answers": [{"answer_start": 41 , "text": "material.n.01"}],
+"question": "paper.n.01,_hypernym",
+ "id": "0x295183bf7700x295183bf5f0"
+},
+{
+ "answers": [{"answer_start": 65 , "text": "substance.n.01"}],
+"question": "material.n.01,_hypernym",
+ "id": "0x295183bf2f00x295183bf5b0"
+}
+]},
+{
+"context": "stagnation.n.01,_derivationally_related_form,stagnate.v.02,_derivationally_related_form,stagnation.n.02,_hypernym,inaction.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 45 , "text": "stagnate.v.02"}],
+"question": "stagnation.n.01,_derivationally_related_form",
+ "id": "0x295183bf8b00x29518381da0"
+},
+{
+ "answers": [{"answer_start": 88 , "text": "stagnation.n.02"}],
+"question": "stagnate.v.02,_derivationally_related_form",
+ "id": "0x295183bf5700x29518381d50"
+},
+{
+ "answers": [{"answer_start": 114 , "text": "inaction.n.01"}],
+"question": "stagnation.n.02,_hypernym",
+ "id": "0x295183bf2b00x295183bf830"
+}
+]},
+{
+"context": "march.n.04,_derivationally_related_form,march.v.01,_derivationally_related_form,march.n.02,_hypernym,walk.n.01,_derivationally_related_form,walk.v.10,_derivationally_related_form,walk.n.05 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 40 , "text": "march.v.01"}],
+"question": "march.n.04,_derivationally_related_form",
+ "id": "0x295183bf4700x29518381cb0"
+},
+{
+ "answers": [{"answer_start": 80 , "text": "march.n.02"}],
+"question": "march.v.01,_derivationally_related_form",
+ "id": "0x295183bf1b00x29518381df0"
+},
+{
+ "answers": [{"answer_start": 101 , "text": "walk.n.01"}],
+"question": "march.n.02,_hypernym",
+ "id": "0x295183bf2700x295183bf770"
+},
+{
+ "answers": [{"answer_start": 140 , "text": "walk.v.10"}],
+"question": "walk.n.01,_derivationally_related_form",
+ "id": "0x295183bf5f00x29518381850"
+},
+{
+ "answers": [{"answer_start": 179 , "text": "walk.n.05"}],
+"question": "walk.v.10,_derivationally_related_form",
+ "id": "0x295183bf6300x29518381b70"
+}
+]},
+{
+"context": "pacific.n.01,_member_of_domain_region,philippine_sea.n.01,_instance_hypernym,naval_battle.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 38 , "text": "philippine_sea.n.01"}],
+"question": "pacific.n.01,_member_of_domain_region",
+ "id": "0x29517b711b00x29518381bc0"
+},
+{
+ "answers": [{"answer_start": 77 , "text": "naval_battle.n.01"}],
+"question": "philippine_sea.n.01,_instance_hypernym",
+ "id": "0x2951833f3000x2951833ff60"
+}
+]},
+{
+"context": "affidavit.n.01,_hypernym,legal_document.n.01,_hypernym,document.n.01,_has_part,article.n.03,_derivationally_related_form,article.v.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 25 , "text": "legal_document.n.01"}],
+"question": "affidavit.n.01,_hypernym",
+ "id": "0x295183bf5f00x295183bf7f0"
+},
+{
+ "answers": [{"answer_start": 55 , "text": "document.n.01"}],
+"question": "legal_document.n.01,_hypernym",
+ "id": "0x295183430780x295183bf330"
+},
+{
+ "answers": [{"answer_start": 79 , "text": "article.n.03"}],
+"question": "document.n.01,_has_part",
+ "id": "0x295183bf8300x295183bf2b0"
+},
+{
+ "answers": [{"answer_start": 121 , "text": "article.v.01"}],
+"question": "article.n.03,_derivationally_related_form",
+ "id": "0x295183bf8b00x29518381da0"
+}
+]},
+{
+"context": "lack.n.01,_hypernym,need.n.01,_hypernym,condition.n.01,_derivationally_related_form,condition.v.04 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 20 , "text": "need.n.01"}],
+"question": "lack.n.01,_hypernym",
+ "id": "0x295183bf3f00x295183bf2f0"
+},
+{
+ "answers": [{"answer_start": 40 , "text": "condition.n.01"}],
+"question": "need.n.01,_hypernym",
+ "id": "0x295183bf6300x295183bf470"
+},
+{
+ "answers": [{"answer_start": 84 , "text": "condition.v.04"}],
+"question": "condition.n.01,_derivationally_related_form",
+ "id": "0x295183bf1b00x29518381b70"
+}
+]},
+{
+"context": "convulse.v.06,_hypernym,compress.v.02,_derivationally_related_form,compression.n.02,_hypernym,shrinking.n.01,_derivationally_related_form,shrink.v.04 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 24 , "text": "compress.v.02"}],
+"question": "convulse.v.06,_hypernym",
+ "id": "0x295183bf8b00x295183bf4f0"
+},
+{
+ "answers": [{"answer_start": 67 , "text": "compression.n.02"}],
+"question": "compress.v.02,_derivationally_related_form",
+ "id": "0x295183bf1f00x29518381d50"
+},
+{
+ "answers": [{"answer_start": 94 , "text": "shrinking.n.01"}],
+"question": "compression.n.02,_hypernym",
+ "id": "0x2951833f3900x295183bf430"
+},
+{
+ "answers": [{"answer_start": 138 , "text": "shrink.v.04"}],
+"question": "shrinking.n.01,_derivationally_related_form",
+ "id": "0x295183bf5700x29518381c60"
+}
+]},
+{
+"context": "monera.n.01,_member_meronym,lactobacillaceae.n.01,_member_meronym,genus_diplococcus.n.01,_hypernym,bacteria_genus.n.01,_hypernym,genus.n.02,_member_meronym,subgenus.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 28 , "text": "lactobacillaceae.n.01"}],
+"question": "monera.n.01,_member_meronym",
+ "id": "0x295183bf5f00x295183bf7f0"
+},
+{
+ "answers": [{"answer_start": 66 , "text": "genus_diplococcus.n.01"}],
+"question": "lactobacillaceae.n.01,_member_meronym",
+ "id": "0x2951833ffa80x295183bf330"
+},
+{
+ "answers": [{"answer_start": 99 , "text": "bacteria_genus.n.01"}],
+"question": "genus_diplococcus.n.01,_hypernym",
+ "id": "0x2951833f0300x295183bf470"
+},
+{
+ "answers": [{"answer_start": 129 , "text": "genus.n.02"}],
+"question": "bacteria_genus.n.01,_hypernym",
+ "id": "0x2951833f4f80x295183bf2b0"
+},
+{
+ "answers": [{"answer_start": 156 , "text": "subgenus.n.01"}],
+"question": "genus.n.02,_member_meronym",
+ "id": "0x295183bf5b00x295183bf670"
+}
+]},
+{
+"context": "feed.n.01,_derivationally_related_form,feed.v.06,_derivationally_related_form,eating.n.01,_hypernym,consumption.n.01,_hypernym,bodily_process.n.01,_hypernym,organic_process.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 39 , "text": "feed.v.06"}],
+"question": "feed.n.01,_derivationally_related_form",
+ "id": "0x295183bf8300x29518381ee0"
+},
+{
+ "answers": [{"answer_start": 78 , "text": "eating.n.01"}],
+"question": "feed.v.06,_derivationally_related_form",
+ "id": "0x295183bf2f00x29518381e40"
+},
+{
+ "answers": [{"answer_start": 100 , "text": "consumption.n.01"}],
+"question": "eating.n.01,_hypernym",
+ "id": "0x295183bf6300x295183bf770"
+},
+{
+ "answers": [{"answer_start": 127 , "text": "bodily_process.n.01"}],
+"question": "consumption.n.01,_hypernym",
+ "id": "0x2951833f3d80x295183bf170"
+},
+{
+ "answers": [{"answer_start": 157 , "text": "organic_process.n.01"}],
+"question": "bodily_process.n.01,_hypernym",
+ "id": "0x2951833ec480x295183bf4f0"
+}
+]},
+{
+"context": "federal_judiciary.n.01,_has_part,federal_court.n.01,_hypernym,court.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 33 , "text": "federal_court.n.01"}],
+"question": "federal_judiciary.n.01,_has_part",
+ "id": "0x2951833f3900x295183bf570"
+},
+{
+ "answers": [{"answer_start": 62 , "text": "court.n.01"}],
+"question": "federal_court.n.01,_hypernym",
+ "id": "0x2951833f2700x295183bf8b0"
+}
+]},
+{
+"context": "inachis.n.01,_member_meronym,peacock.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 29 , "text": "peacock.n.01"}],
+"question": "inachis.n.01,_member_meronym",
+ "id": "0x295183bf3700x295183bf670"
+}
+]},
+{
+"context": "baseball_diamond.n.01,_has_part,short.n.01,_hypernym,tract.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 32 , "text": "short.n.01"}],
+"question": "baseball_diamond.n.01,_has_part",
+ "id": "0x295183430780x295183bf4f0"
+},
+{
+ "answers": [{"answer_start": 53 , "text": "tract.n.01"}],
+"question": "short.n.01,_hypernym",
+ "id": "0x295183bf2f00x295183bf570"
+}
+]},
+{
+"context": "arbitration.n.02,_derivationally_related_form,intercede.v.01,_derivationally_related_form,arbiter.n.02,_hypernym,evaluator.n.01,_hypernym,authority.n.03 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 46 , "text": "intercede.v.01"}],
+"question": "arbitration.n.02,_derivationally_related_form",
+ "id": "0x2951833f4f80x29518391f30"
+},
+{
+ "answers": [{"answer_start": 90 , "text": "arbiter.n.02"}],
+"question": "intercede.v.01,_derivationally_related_form",
+ "id": "0x295183bf3700x29518391e40"
+},
+{
+ "answers": [{"answer_start": 113 , "text": "evaluator.n.01"}],
+"question": "arbiter.n.02,_hypernym",
+ "id": "0x295183bf7700x295183bf3f0"
+},
+{
+ "answers": [{"answer_start": 138 , "text": "authority.n.03"}],
+"question": "evaluator.n.01,_hypernym",
+ "id": "0x295183bf5f00x295183bf7f0"
+}
+]},
+{
+"context": "construction.n.01,_derivationally_related_form,construct.v.01,_hypernym,make.v.03,_also_see,remake.v.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 47 , "text": "construct.v.01"}],
+"question": "construction.n.01,_derivationally_related_form",
+ "id": "0x295183430780x29518391e90"
+},
+{
+ "answers": [{"answer_start": 72 , "text": "make.v.03"}],
+"question": "construct.v.01,_hypernym",
+ "id": "0x295183bf2f00x295183bf8b0"
+},
+{
+ "answers": [{"answer_start": 92 , "text": "remake.v.01"}],
+"question": "make.v.03,_also_see",
+ "id": "0x295183bf6700x295183bf830"
+}
+]},
+{
+"context": "domesticate.v.02,_derivationally_related_form,tamer.n.01,_derivationally_related_form,domesticate.v.02,_hypernym,change.v.01,_derivationally_related_form,changer.n.01,_derivationally_related_form,change.v.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 46 , "text": "tamer.n.01"}],
+"question": "domesticate.v.02,_derivationally_related_form",
+ "id": "0x2951833f3480x29518fec9e0"
+},
+{
+ "answers": [{"answer_start": 86 , "text": "domesticate.v.02"}],
+"question": "tamer.n.01,_derivationally_related_form",
+ "id": "0x295183bf7f00x29518fec8a0"
+},
+{
+ "answers": [{"answer_start": 196 , "text": "change.v.01"}],
+"question": "domesticate.v.02,_hypernym",
+ "id": "0x2951833f4f80x295183bf4f0"
+},
+{
+ "answers": [{"answer_start": 154 , "text": "changer.n.01"}],
+"question": "change.v.01,_derivationally_related_form",
+ "id": "0x295183bf3700x29518fec850"
+},
+{
+ "answers": [{"answer_start": 196 , "text": "change.v.01"}],
+"question": "changer.n.01,_derivationally_related_form",
+ "id": "0x295183bf7700x29518fec8f0"
+}
+]},
+{
+"context": "rule.n.01,_hypernym,concept.n.01,_derivationally_related_form,gestate.v.01,_derivationally_related_form,originator.n.01,_derivationally_related_form,gestate.v.01,_derivationally_related_form,invention.n.01,_hypernym,creativity.n.01,_hypernym,ability.n.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 20 , "text": "concept.n.01"}],
+"question": "rule.n.01,_hypernym",
+ "id": "0x295183bf1700x295183bf5f0"
+},
+{
+ "answers": [{"answer_start": 149 , "text": "gestate.v.01"}],
+"question": "concept.n.01,_derivationally_related_form",
+ "id": "0x295183bf5b00x29518391f30"
+},
+{
+ "answers": [{"answer_start": 104 , "text": "originator.n.01"}],
+"question": "gestate.v.01,_derivationally_related_form",
+ "id": "0x295183bf2b00x29518381ee0"
+},
+{
+ "answers": [{"answer_start": 149 , "text": "gestate.v.01"}],
+"question": "originator.n.01,_derivationally_related_form",
+ "id": "0x295183bf1f00x29518381e40"
+},
+{
+ "answers": [{"answer_start": 191 , "text": "invention.n.01"}],
+"question": "gestate.v.01,_derivationally_related_form",
+ "id": "0x295183bf4300x29518381b70"
+},
+{
+ "answers": [{"answer_start": 216 , "text": "creativity.n.01"}],
+"question": "invention.n.01,_hypernym",
+ "id": "0x295183bf9300x295183bf6b0"
+},
+{
+ "answers": [{"answer_start": 242 , "text": "ability.n.02"}],
+"question": "creativity.n.01,_hypernym",
+ "id": "0x295183bf7b00x295183bf530"
+}
+]},
+{
+"context": "india.n.01,_member_of_domain_region,lucknow.n.02,_instance_hypernym,siege.n.01,_hypernym,blockade.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 36 , "text": "lucknow.n.02"}],
+"question": "india.n.01,_member_of_domain_region",
+ "id": "0x295183bf3f00x29517fa21c0"
+},
+{
+ "answers": [{"answer_start": 68 , "text": "siege.n.01"}],
+"question": "lucknow.n.02,_instance_hypernym",
+ "id": "0x295183bf7700x2951833f390"
+},
+{
+ "answers": [{"answer_start": 89 , "text": "blockade.n.01"}],
+"question": "siege.n.01,_hypernym",
+ "id": "0x295183bf7f00x295183bf4f0"
+}
+]},
+{
+"context": "durra.n.01,_hypernym,grain_sorghum.n.01,_hypernym,sorghum.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 21 , "text": "grain_sorghum.n.01"}],
+"question": "durra.n.01,_hypernym",
+ "id": "0x295183bf8700x295183bf530"
+},
+{
+ "answers": [{"answer_start": 50 , "text": "sorghum.n.01"}],
+"question": "grain_sorghum.n.01,_hypernym",
+ "id": "0x2951833f3480x295183bf8f0"
+}
+]},
+{
+"context": "priority.n.02,_derivationally_related_form,predate.v.01,_derivationally_related_form,antecedent.n.02,_hypernym,cause.n.01,_hypernym,origin.n.03,_derivationally_related_form,originate.v.01,_hypernym,become.v.03 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 43 , "text": "predate.v.01"}],
+"question": "priority.n.02,_derivationally_related_form",
+ "id": "0x295183bf5f00x29518381e40"
+},
+{
+ "answers": [{"answer_start": 85 , "text": "antecedent.n.02"}],
+"question": "predate.v.01,_derivationally_related_form",
+ "id": "0x295183bf5b00x29518391ee0"
+},
+{
+ "answers": [{"answer_start": 111 , "text": "cause.n.01"}],
+"question": "antecedent.n.02,_hypernym",
+ "id": "0x295183bf4300x295183bf930"
+},
+{
+ "answers": [{"answer_start": 132 , "text": "origin.n.03"}],
+"question": "cause.n.01,_hypernym",
+ "id": "0x295183bf6b00x295183bf4b0"
+},
+{
+ "answers": [{"answer_start": 173 , "text": "originate.v.01"}],
+"question": "origin.n.03,_derivationally_related_form",
+ "id": "0x295183bf8b00x29518391f80"
+},
+{
+ "answers": [{"answer_start": 198 , "text": "become.v.03"}],
+"question": "originate.v.01,_hypernym",
+ "id": "0x295183bf2700x295183bf470"
+}
+]},
+{
+"context": "american_basswood.n.01,_hypernym,linden.n.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 33 , "text": "linden.n.02"}],
+"question": "american_basswood.n.01,_hypernym",
+ "id": "0x2951833ff600x29517b711b0"
+}
+]},
+{
+"context": "government.n.01,_member_meronym,executive.n.02,_hypernym,administration.n.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 32 , "text": "executive.n.02"}],
+"question": "government.n.01,_member_meronym",
+ "id": "0x295183bf8300x295183bf570"
+},
+{
+ "answers": [{"answer_start": 57 , "text": "administration.n.02"}],
+"question": "executive.n.02,_hypernym",
+ "id": "0x295183bf5f00x295183bf5b0"
+}
+]},
+{
+"context": "genus_lepiota.n.01,_hypernym,fungus_genus.n.01,_hypernym,genus.n.02,_member_meronym,species.n.01,_member_meronym,form.n.09,_synset_domain_topic_of,biology.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 29 , "text": "fungus_genus.n.01"}],
+"question": "genus_lepiota.n.01,_hypernym",
+ "id": "0x2951833f3480x295183bf6b0"
+},
+{
+ "answers": [{"answer_start": 57 , "text": "genus.n.02"}],
+"question": "fungus_genus.n.01,_hypernym",
+ "id": "0x2951833ff600x295183bf8b0"
+},
+{
+ "answers": [{"answer_start": 84 , "text": "species.n.01"}],
+"question": "genus.n.02,_member_meronym",
+ "id": "0x295183bf7300x295183bf8f0"
+},
+{
+ "answers": [{"answer_start": 113 , "text": "form.n.09"}],
+"question": "species.n.01,_member_meronym",
+ "id": "0x295183bf8700x295183bf530"
+},
+{
+ "answers": [{"answer_start": 147 , "text": "biology.n.01"}],
+"question": "form.n.09,_synset_domain_topic_of",
+ "id": "0x295183bf1b00x2951833f198"
+}
+]},
+{
+"context": "interval.n.02,_hypernym,set.n.02,_hypernym,abstraction.n.06,_hypernym,entity.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 24 , "text": "set.n.02"}],
+"question": "interval.n.02,_hypernym",
+ "id": "0x295183bf5b00x295183bf830"
+},
+{
+ "answers": [{"answer_start": 43 , "text": "abstraction.n.06"}],
+"question": "set.n.02,_hypernym",
+ "id": "0x295183bf9300x295183bf630"
+},
+{
+ "answers": [{"answer_start": 70 , "text": "entity.n.01"}],
+"question": "abstraction.n.06,_hypernym",
+ "id": "0x2951833f4f80x295183bf2b0"
+}
+]},
+{
+"context": "feminist.n.01,_derivationally_related_form,feminist_movement.n.01,_derivationally_related_form,feminist.n.01,_hypernym,reformer.n.01,_derivationally_related_form,crusade.v.01,_verb_group,advertise.v.02,_verb_group,crusade.v.01,_hypernym,advertise.v.02,_derivationally_related_form,promoter.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 43 , "text": "feminist_movement.n.01"}],
+"question": "feminist.n.01,_derivationally_related_form",
+ "id": "0x295183bf8f00x29518381e40"
+},
+{
+ "answers": [{"answer_start": 95 , "text": "feminist.n.01"}],
+"question": "feminist_movement.n.01,_derivationally_related_form",
+ "id": "0x295183430780x29518381ee0"
+},
+{
+ "answers": [{"answer_start": 119 , "text": "reformer.n.01"}],
+"question": "feminist.n.01,_hypernym",
+ "id": "0x295183bf8700x295183bf530"
+},
+{
+ "answers": [{"answer_start": 214 , "text": "crusade.v.01"}],
+"question": "reformer.n.01,_derivationally_related_form",
+ "id": "0x295183bf2700x29518381b70"
+},
+{
+ "answers": [{"answer_start": 237 , "text": "advertise.v.02"}],
+"question": "crusade.v.01,_verb_group",
+ "id": "0x295183bf1f00x295183bf2f0"
+},
+{
+ "answers": [{"answer_start": 214 , "text": "crusade.v.01"}],
+"question": "advertise.v.02,_verb_group",
+ "id": "0x295183bf3300x295183bf7b0"
+},
+{
+ "answers": [{"answer_start": 237 , "text": "advertise.v.02"}],
+"question": "crusade.v.01,_hypernym",
+ "id": "0x295183bf1700x295183bf3f0"
+},
+{
+ "answers": [{"answer_start": 281 , "text": "promoter.n.01"}],
+"question": "advertise.v.02,_derivationally_related_form",
+ "id": "0x295183bf7f00x29518381a80"
+}
+]},
+{
+"context": "arecidae.n.01,_member_meronym,palmales.n.01,_hypernym,plant_order.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 30 , "text": "palmales.n.01"}],
+"question": "arecidae.n.01,_member_meronym",
+ "id": "0x295183bf7700x295183bf6b0"
+},
+{
+ "answers": [{"answer_start": 54 , "text": "plant_order.n.01"}],
+"question": "palmales.n.01,_hypernym",
+ "id": "0x295183bf4300x295183bf2b0"
+}
+]},
+{
+"context": "braid.n.01,_hypernym,hairdo.n.01,_derivationally_related_form,dress.v.16,_derivationally_related_form,hairdo.n.01,_derivationally_related_form,hairdresser.n.01,_derivationally_related_form,style.v.02,_hypernym,make.v.03,_derivationally_related_form,creature.n.02,_hypernym,person.n.01,_derivationally_related_form,personify.v.03 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 102 , "text": "hairdo.n.01"}],
+"question": "braid.n.01,_hypernym",
+ "id": "0x295183bf1700x295183bf7b0"
+},
+{
+ "answers": [{"answer_start": 62 , "text": "dress.v.16"}],
+"question": "hairdo.n.01,_derivationally_related_form",
+ "id": "0x295183bf2700x29518381cb0"
+},
+{
+ "answers": [{"answer_start": 102 , "text": "hairdo.n.01"}],
+"question": "dress.v.16,_derivationally_related_form",
+ "id": "0x295183bf3f00x29518381850"
+},
+{
+ "answers": [{"answer_start": 143 , "text": "hairdresser.n.01"}],
+"question": "hairdo.n.01,_derivationally_related_form",
+ "id": "0x295183bf5b00x29518381c10"
+},
+{
+ "answers": [{"answer_start": 189 , "text": "style.v.02"}],
+"question": "hairdresser.n.01,_derivationally_related_form",
+ "id": "0x2951833f0300x29518381d00"
+},
+{
+ "answers": [{"answer_start": 210 , "text": "make.v.03"}],
+"question": "style.v.02,_hypernym",
+ "id": "0x295183bf8300x295183bf930"
+},
+{
+ "answers": [{"answer_start": 249 , "text": "creature.n.02"}],
+"question": "make.v.03,_derivationally_related_form",
+ "id": "0x295183bf6300x29518381b20"
+},
+{
+ "answers": [{"answer_start": 273 , "text": "person.n.01"}],
+"question": "creature.n.02,_hypernym",
+ "id": "0x295183bf1b00x295183bf5f0"
+},
+{
+ "answers": [{"answer_start": 314 , "text": "personify.v.03"}],
+"question": "person.n.01,_derivationally_related_form",
+ "id": "0x295183bf5700x29518381e90"
+}
+]},
+{
+"context": "victual.v.01,_derivationally_related_form,victualer.n.01,_derivationally_related_form,victual.v.01,_derivationally_related_form,sutler.n.01,_hypernym,supplier.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 42 , "text": "victualer.n.01"}],
+"question": "victual.v.01,_derivationally_related_form",
+ "id": "0x295183bf4300x29518381d50"
+},
+{
+ "answers": [{"answer_start": 86 , "text": "victual.v.01"}],
+"question": "victualer.n.01,_derivationally_related_form",
+ "id": "0x295183bf7700x29518381ad0"
+},
+{
+ "answers": [{"answer_start": 128 , "text": "sutler.n.01"}],
+"question": "victual.v.01,_derivationally_related_form",
+ "id": "0x295183bf6b00x29518381bc0"
+},
+{
+ "answers": [{"answer_start": 150 , "text": "supplier.n.01"}],
+"question": "sutler.n.01,_hypernym",
+ "id": "0x295183bf3700x295183bf4f0"
+}
+]},
+{
+"context": "compositae.n.01,_member_meronym,grindelia.n.01,_member_meronym,gumweed.n.01,_hypernym,herb.n.01,_has_part,vegetable.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 32 , "text": "grindelia.n.01"}],
+"question": "compositae.n.01,_member_meronym",
+ "id": "0x295183bf1700x295183bf970"
+},
+{
+ "answers": [{"answer_start": 63 , "text": "gumweed.n.01"}],
+"question": "grindelia.n.01,_member_meronym",
+ "id": "0x295183bf1300x295183bf5b0"
+},
+{
+ "answers": [{"answer_start": 86 , "text": "herb.n.01"}],
+"question": "gumweed.n.01,_hypernym",
+ "id": "0x295183bf8300x295183bf930"
+},
+{
+ "answers": [{"answer_start": 106 , "text": "vegetable.n.01"}],
+"question": "herb.n.01,_has_part",
+ "id": "0x295183bf6300x295183bf1b0"
+}
+]},
+{
+"context": "surf.n.01,_hypernym,wave.n.01,_hypernym,movement.n.03,_hypernym,happening.n.01,_hypernym,event.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 20 , "text": "wave.n.01"}],
+"question": "surf.n.01,_hypernym",
+ "id": "0x295183bf3700x295183bf330"
+},
+{
+ "answers": [{"answer_start": 40 , "text": "movement.n.03"}],
+"question": "wave.n.01,_hypernym",
+ "id": "0x295183bf2b00x295183bf470"
+},
+{
+ "answers": [{"answer_start": 64 , "text": "happening.n.01"}],
+"question": "movement.n.03,_hypernym",
+ "id": "0x295183bf5700x295183bf8b0"
+},
+{
+ "answers": [{"answer_start": 89 , "text": "event.n.01"}],
+"question": "happening.n.01,_hypernym",
+ "id": "0x295183bf7f00x295183bf8f0"
+}
+]},
+{
+"context": "plural.n.01,_hypernym,form.n.01,_hypernym,word.n.01,_has_part,syllable.n.01,_hypernym,language_unit.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 22 , "text": "form.n.01"}],
+"question": "plural.n.01,_hypernym",
+ "id": "0x295183bf3f00x295183bf430"
+},
+{
+ "answers": [{"answer_start": 42 , "text": "word.n.01"}],
+"question": "form.n.01,_hypernym",
+ "id": "0x295183bf7700x295183bf6b0"
+},
+{
+ "answers": [{"answer_start": 62 , "text": "syllable.n.01"}],
+"question": "word.n.01,_has_part",
+ "id": "0x295183bf7300x295183bf7b0"
+},
+{
+ "answers": [{"answer_start": 86 , "text": "language_unit.n.01"}],
+"question": "syllable.n.01,_hypernym",
+ "id": "0x295183bf2700x295183bf5b0"
+}
+]},
+{
+"context": "incarnadine.v.01,_hypernym,color.v.01,_derivationally_related_form,coloration.n.03,_derivationally_related_form,color.v.01,_derivationally_related_form,coloring.n.01,_hypernym,foodstuff.n.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 112 , "text": "color.v.01"}],
+"question": "incarnadine.v.01,_hypernym",
+ "id": "0x295183430780x295183bf8f0"
+},
+{
+ "answers": [{"answer_start": 67 , "text": "coloration.n.03"}],
+"question": "color.v.01,_derivationally_related_form",
+ "id": "0x295183bf1300x29518381c10"
+},
+{
+ "answers": [{"answer_start": 112 , "text": "color.v.01"}],
+"question": "coloration.n.03,_derivationally_related_form",
+ "id": "0x295183bf6300x29518381d00"
+},
+{
+ "answers": [{"answer_start": 152 , "text": "coloring.n.01"}],
+"question": "color.v.01,_derivationally_related_form",
+ "id": "0x295183bf5f00x29518381b20"
+},
+{
+ "answers": [{"answer_start": 176 , "text": "foodstuff.n.02"}],
+"question": "coloring.n.01,_hypernym",
+ "id": "0x295183bf3300x295183bf2b0"
+}
+]},
+{
+"context": "privilege.v.01,_derivationally_related_form,favor.n.01,_derivationally_related_form,privilege.v.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 44 , "text": "favor.n.01"}],
+"question": "privilege.v.01,_derivationally_related_form",
+ "id": "0x295183bf1b00x29518381850"
+},
+{
+ "answers": [{"answer_start": 84 , "text": "privilege.v.01"}],
+"question": "favor.n.01,_derivationally_related_form",
+ "id": "0x295183bf4f00x29518381ad0"
+}
+]},
+{
+"context": "sauria.n.01,_member_meronym,agamidae.n.01,_member_meronym,agamid.n.01,_hypernym,lizard.n.01,_hypernym,saurian.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 28 , "text": "agamidae.n.01"}],
+"question": "sauria.n.01,_member_meronym",
+ "id": "0x295183bf2700x295183bf3f0"
+},
+{
+ "answers": [{"answer_start": 58 , "text": "agamid.n.01"}],
+"question": "agamidae.n.01,_member_meronym",
+ "id": "0x295183bf4300x295183bf970"
+},
+{
+ "answers": [{"answer_start": 80 , "text": "lizard.n.01"}],
+"question": "agamid.n.01,_hypernym",
+ "id": "0x295183bf7f00x295183bf370"
+},
+{
+ "answers": [{"answer_start": 102 , "text": "saurian.n.01"}],
+"question": "lizard.n.01,_hypernym",
+ "id": "0x295183bf4b00x295183bf870"
+}
+]},
+{
+"context": "orchid.n.01,_hypernym,flower.n.01,_hypernym,angiosperm.n.01,_hypernym,spermatophyte.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 22 , "text": "flower.n.01"}],
+"question": "orchid.n.01,_hypernym",
+ "id": "0x295183bf1300x295183bf5f0"
+},
+{
+ "answers": [{"answer_start": 44 , "text": "angiosperm.n.01"}],
+"question": "flower.n.01,_hypernym",
+ "id": "0x295183bf5b00x295183bf2b0"
+},
+{
+ "answers": [{"answer_start": 70 , "text": "spermatophyte.n.01"}],
+"question": "angiosperm.n.01,_hypernym",
+ "id": "0x295183bf3300x295183bf8f0"
+}
+]},
+{
+"context": "ordain.v.01,_hypernym,decree.v.01,_hypernym,declare.v.01,_hypernym,state.v.01,_derivationally_related_form,telling.n.02,_derivationally_related_form,state.v.01,_hypernym,express.v.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 22 , "text": "decree.v.01"}],
+"question": "ordain.v.01,_hypernym",
+ "id": "0x295183bf9700x295183bf4f0"
+},
+{
+ "answers": [{"answer_start": 44 , "text": "declare.v.01"}],
+"question": "decree.v.01,_hypernym",
+ "id": "0x295183bf7f00x295183bf370"
+},
+{
+ "answers": [{"answer_start": 149 , "text": "state.v.01"}],
+"question": "declare.v.01,_hypernym",
+ "id": "0x295183bf7700x295183bf6b0"
+},
+{
+ "answers": [{"answer_start": 107 , "text": "telling.n.02"}],
+"question": "state.v.01,_derivationally_related_form",
+ "id": "0x295183bf4700x29518381850"
+},
+{
+ "answers": [{"answer_start": 149 , "text": "state.v.01"}],
+"question": "telling.n.02,_derivationally_related_form",
+ "id": "0x295183bf6300x29518381da0"
+},
+{
+ "answers": [{"answer_start": 170 , "text": "express.v.02"}],
+"question": "state.v.01,_hypernym",
+ "id": "0x295183bf8b00x295183bf830"
+}
+]},
+{
+"context": "shrinking.n.01,_derivationally_related_form,shrink.v.04,_derivationally_related_form,shrinking.n.01,_hypernym,decrease.n.01,_derivationally_related_form,decrease.v.02,_derivationally_related_form,decrease.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 44 , "text": "shrink.v.04"}],
+"question": "shrinking.n.01,_derivationally_related_form",
+ "id": "0x295183bf5f00x29518381c10"
+},
+{
+ "answers": [{"answer_start": 85 , "text": "shrinking.n.01"}],
+"question": "shrink.v.04,_derivationally_related_form",
+ "id": "0x295183bf5b00x29518381d00"
+},
+{
+ "answers": [{"answer_start": 196 , "text": "decrease.n.01"}],
+"question": "shrinking.n.01,_hypernym",
+ "id": "0x295183bf8700x295183bf4b0"
+},
+{
+ "answers": [{"answer_start": 153 , "text": "decrease.v.02"}],
+"question": "decrease.n.01,_derivationally_related_form",
+ "id": "0x295183bf2700x29518381b20"
+},
+{
+ "answers": [{"answer_start": 196 , "text": "decrease.n.01"}],
+"question": "decrease.v.02,_derivationally_related_form",
+ "id": "0x295183bf1b00x29518381bc0"
+}
+]},
+{
+"context": "observation.n.02,_derivationally_related_form,note.v.03,_derivationally_related_form,observation.n.02,_derivationally_related_form,observe.v.04,_derivationally_related_form,observation.n.02,_hypernym,look.n.02,_hypernym,sensing.n.02,_derivationally_related_form,perceive.v.01,_derivationally_related_form,sensing.n.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 46 , "text": "note.v.03"}],
+"question": "observation.n.02,_derivationally_related_form",
+ "id": "0x2951833f2280x29518381b70"
+},
+{
+ "answers": [{"answer_start": 173 , "text": "observation.n.02"}],
+"question": "note.v.03,_derivationally_related_form",
+ "id": "0x295183bf3300x29517fa21c0"
+},
+{
+ "answers": [{"answer_start": 131 , "text": "observe.v.04"}],
+"question": "observation.n.02,_derivationally_related_form",
+ "id": "0x2951833f1980x29518391e90"
+},
+{
+ "answers": [{"answer_start": 173 , "text": "observation.n.02"}],
+"question": "observe.v.04,_derivationally_related_form",
+ "id": "0x295183bf1300x29518391ee0"
+},
+{
+ "answers": [{"answer_start": 200 , "text": "look.n.02"}],
+"question": "observation.n.02,_hypernym",
+ "id": "0x2951833ffa80x295183bf7f0"
+},
+{
+ "answers": [{"answer_start": 305 , "text": "sensing.n.02"}],
+"question": "look.n.02,_hypernym",
+ "id": "0x295183bf3700x295183bf770"
+},
+{
+ "answers": [{"answer_start": 262 , "text": "perceive.v.01"}],
+"question": "sensing.n.02,_derivationally_related_form",
+ "id": "0x295183bf6b00x29518391f80"
+},
+{
+ "answers": [{"answer_start": 305 , "text": "sensing.n.02"}],
+"question": "perceive.v.01,_derivationally_related_form",
+ "id": "0x295183bf4700x29518391f30"
+}
+]},
+{
+"context": "keep.v.07,_derivationally_related_form,custodian.n.01,_hypernym,defender.n.01,_derivationally_related_form,protectorship.n.01,_derivationally_related_form,defender.n.01,_derivationally_related_form,champion.v.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 39 , "text": "custodian.n.01"}],
+"question": "keep.v.07,_derivationally_related_form",
+ "id": "0x295183bf1b00x29518381d50"
+},
+{
+ "answers": [{"answer_start": 155 , "text": "defender.n.01"}],
+"question": "custodian.n.01,_hypernym",
+ "id": "0x295183bf1700x295183bf5f0"
+},
+{
+ "answers": [{"answer_start": 107 , "text": "protectorship.n.01"}],
+"question": "defender.n.01,_derivationally_related_form",
+ "id": "0x295183bf5b00x29518381cb0"
+},
+{
+ "answers": [{"answer_start": 155 , "text": "defender.n.01"}],
+"question": "protectorship.n.01,_derivationally_related_form",
+ "id": "0x2951833f2700x29518381ee0"
+},
+{
+ "answers": [{"answer_start": 198 , "text": "champion.v.01"}],
+"question": "defender.n.01,_derivationally_related_form",
+ "id": "0x295183bf8700x29518381da0"
+}
+]},
+{
+"context": "ammonify.v.01,_synset_domain_topic_of,chemistry.n.01,_hypernym,natural_science.n.01,_hypernym,science.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 38 , "text": "chemistry.n.01"}],
+"question": "ammonify.v.01,_synset_domain_topic_of",
+ "id": "0x295183bf4700x29518343078"
+},
+{
+ "answers": [{"answer_start": 63 , "text": "natural_science.n.01"}],
+"question": "chemistry.n.01,_hypernym",
+ "id": "0x295183bf3300x295183bf730"
+},
+{
+ "answers": [{"answer_start": 94 , "text": "science.n.01"}],
+"question": "natural_science.n.01,_hypernym",
+ "id": "0x2951833f3000x295183bf7b0"
+}
+]},
+{
+"context": "slope.v.01,_derivationally_related_form,inclination.n.02,_hypernym,angle.n.01,_hypernym,space.n.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 40 , "text": "inclination.n.02"}],
+"question": "slope.v.01,_derivationally_related_form",
+ "id": "0x295183bf7f00x29518391f30"
+},
+{
+ "answers": [{"answer_start": 67 , "text": "angle.n.01"}],
+"question": "inclination.n.02,_hypernym",
+ "id": "0x2951833f3900x295183bf1b0"
+},
+{
+ "answers": [{"answer_start": 88 , "text": "space.n.02"}],
+"question": "angle.n.01,_hypernym",
+ "id": "0x295183bf5f00x295183bf5b0"
+}
+]},
+{
+"context": "asio.n.01,_member_meronym,long-eared_owl.n.01,_hypernym,owl.n.01,_hypernym,bird_of_prey.n.01,_hypernym,bird.n.01,_has_part,syrinx.n.02,_hypernym,structure.n.04 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 26 , "text": "long-eared_owl.n.01"}],
+"question": "asio.n.01,_member_meronym",
+ "id": "0x295183bf3700x295183bf770"
+},
+{
+ "answers": [{"answer_start": 56 , "text": "owl.n.01"}],
+"question": "long-eared_owl.n.01,_hypernym",
+ "id": "0x2951833f2280x295183bf270"
+},
+{
+ "answers": [{"answer_start": 75 , "text": "bird_of_prey.n.01"}],
+"question": "owl.n.01,_hypernym",
+ "id": "0x295183bf2b00x295183bf4f0"
+},
+{
+ "answers": [{"answer_start": 103 , "text": "bird.n.01"}],
+"question": "bird_of_prey.n.01,_hypernym",
+ "id": "0x2951833f3000x295183bf3f0"
+},
+{
+ "answers": [{"answer_start": 123 , "text": "syrinx.n.02"}],
+"question": "bird.n.01,_has_part",
+ "id": "0x295183bf9300x295183bf830"
+},
+{
+ "answers": [{"answer_start": 145 , "text": "structure.n.04"}],
+"question": "syrinx.n.02,_hypernym",
+ "id": "0x295183bf9700x295183bf570"
+}
+]},
+{
+"context": "sell.v.02,_derivationally_related_form,sell.n.01,_derivationally_related_form,sell.v.01,_hypernym,exchange.v.01,_hypernym,transfer.v.05 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 39 , "text": "sell.n.01"}],
+"question": "sell.v.02,_derivationally_related_form",
+ "id": "0x295183bf4700x29518381b70"
+},
+{
+ "answers": [{"answer_start": 78 , "text": "sell.v.01"}],
+"question": "sell.n.01,_derivationally_related_form",
+ "id": "0x295183bf3300x29518381e40"
+},
+{
+ "answers": [{"answer_start": 98 , "text": "exchange.v.01"}],
+"question": "sell.v.01,_hypernym",
+ "id": "0x295183bf6300x295183bf6f0"
+},
+{
+ "answers": [{"answer_start": 122 , "text": "transfer.v.05"}],
+"question": "exchange.v.01,_hypernym",
+ "id": "0x295183bf1700x295183bf8b0"
+}
+]},
+{
+"context": "back.v.01,_derivationally_related_form,endorsement.n.05,_derivationally_related_form,back.v.01,_derivationally_related_form,backing.n.01,_derivationally_related_form,second.v.01,_derivationally_related_form,backing.n.01,_derivationally_related_form,back.v.01,_verb_group,second.v.01,_verb_group,back.v.01,_derivationally_related_form,support.n.02,_derivationally_related_form,back.v.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 39 , "text": "endorsement.n.05"}],
+"question": "back.v.01,_derivationally_related_form",
+ "id": "0x295183bf2b00x29518381a80"
+},
+{
+ "answers": [{"answer_start": 376 , "text": "back.v.01"}],
+"question": "endorsement.n.05,_derivationally_related_form",
+ "id": "0x295183430780x29518381bc0"
+},
+{
+ "answers": [{"answer_start": 207 , "text": "backing.n.01"}],
+"question": "back.v.01,_derivationally_related_form",
+ "id": "0x295183bf4f00x29518381c10"
+},
+{
+ "answers": [{"answer_start": 271 , "text": "second.v.01"}],
+"question": "backing.n.01,_derivationally_related_form",
+ "id": "0x295183bf3f00x29518381d00"
+},
+{
+ "answers": [{"answer_start": 207 , "text": "backing.n.01"}],
+"question": "second.v.01,_derivationally_related_form",
+ "id": "0x295183bf9300x29518381b20"
+},
+{
+ "answers": [{"answer_start": 376 , "text": "back.v.01"}],
+"question": "backing.n.01,_derivationally_related_form",
+ "id": "0x295183bf8300x29518391f80"
+},
+{
+ "answers": [{"answer_start": 271 , "text": "second.v.01"}],
+"question": "back.v.01,_verb_group",
+ "id": "0x295183bf7b00x295183bf4b0"
+},
+{
+ "answers": [{"answer_start": 376 , "text": "back.v.01"}],
+"question": "second.v.01,_verb_group",
+ "id": "0x295183bf1b00x295183bf230"
+},
+{
+ "answers": [{"answer_start": 334 , "text": "support.n.02"}],
+"question": "back.v.01,_derivationally_related_form",
+ "id": "0x295183bf6700x29518391e90"
+},
+{
+ "answers": [{"answer_start": 376 , "text": "back.v.01"}],
+"question": "support.n.02,_derivationally_related_form",
+ "id": "0x295183bf5300x29518391ee0"
+}
+]},
+{
+"context": "nip.v.03,_derivationally_related_form,snip.n.01,_derivationally_related_form,nip.v.03,_derivationally_related_form,clipper.n.03,_derivationally_related_form,snip.v.02,_derivationally_related_form,snip.n.01,_hypernym,piece.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 196 , "text": "snip.n.01"}],
+"question": "nip.v.03,_derivationally_related_form",
+ "id": "0x295183bf8b00x29518381cb0"
+},
+{
+ "answers": [{"answer_start": 77 , "text": "nip.v.03"}],
+"question": "snip.n.01,_derivationally_related_form",
+ "id": "0x295183bf4700x29518381ad0"
+},
+{
+ "answers": [{"answer_start": 115 , "text": "clipper.n.03"}],
+"question": "nip.v.03,_derivationally_related_form",
+ "id": "0x295183bf6f00x29518381850"
+},
+{
+ "answers": [{"answer_start": 157 , "text": "snip.v.02"}],
+"question": "clipper.n.03,_derivationally_related_form",
+ "id": "0x295183bf2f00x29518381e90"
+},
+{
+ "answers": [{"answer_start": 196 , "text": "snip.n.01"}],
+"question": "snip.v.02,_derivationally_related_form",
+ "id": "0x295183bf9b00x29518381c60"
+},
+{
+ "answers": [{"answer_start": 216 , "text": "piece.n.01"}],
+"question": "snip.n.01,_hypernym",
+ "id": "0x295183bf7300x295183bf370"
+}
+]},
+{
+"context": "absorptivity.n.01,_synset_domain_topic_of,physics.n.01,_hypernym,natural_science.n.01,_hypernym,science.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 42 , "text": "physics.n.01"}],
+"question": "absorptivity.n.01,_synset_domain_topic_of",
+ "id": "0x2951833f2280x2951833f348"
+},
+{
+ "answers": [{"answer_start": 65 , "text": "natural_science.n.01"}],
+"question": "physics.n.01,_hypernym",
+ "id": "0x295183bf1f00x295183bf530"
+},
+{
+ "answers": [{"answer_start": 96 , "text": "science.n.01"}],
+"question": "natural_science.n.01,_hypernym",
+ "id": "0x2951833f0300x295183bf2b0"
+}
+]},
+{
+"context": "individuate.v.01,_hypernym,characterize.v.02,_derivationally_related_form,quality.n.03,_derivationally_related_form,characterize.v.02,_hypernym,distinguish.v.03 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 116 , "text": "characterize.v.02"}],
+"question": "individuate.v.01,_hypernym",
+ "id": "0x2951833f2700x295183bf330"
+},
+{
+ "answers": [{"answer_start": 74 , "text": "quality.n.03"}],
+"question": "characterize.v.02,_derivationally_related_form",
+ "id": "0x2951833f3d80x29518391e90"
+},
+{
+ "answers": [{"answer_start": 116 , "text": "characterize.v.02"}],
+"question": "quality.n.03,_derivationally_related_form",
+ "id": "0x295183bf4300x29518381a80"
+},
+{
+ "answers": [{"answer_start": 144 , "text": "distinguish.v.03"}],
+"question": "characterize.v.02,_hypernym",
+ "id": "0x2951833edf80x295183bf630"
+}
+]},
+{
+"context": "municipality.n.01,_hypernym,administrative_district.n.01,_hypernym,district.n.01,_derivationally_related_form,territorial.a.01,_derivationally_related_form,territory.n.03 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 28 , "text": "administrative_district.n.01"}],
+"question": "municipality.n.01,_hypernym",
+ "id": "0x2951833f3900x295183bf4f0"
+},
+{
+ "answers": [{"answer_start": 67 , "text": "district.n.01"}],
+"question": "administrative_district.n.01,_hypernym",
+ "id": "0x295183818500x295183bf1f0"
+},
+{
+ "answers": [{"answer_start": 110 , "text": "territorial.a.01"}],
+"question": "district.n.01,_derivationally_related_form",
+ "id": "0x295183bf5300x29518381e90"
+},
+{
+ "answers": [{"answer_start": 156 , "text": "territory.n.03"}],
+"question": "territorial.a.01,_derivationally_related_form",
+ "id": "0x2951833f0300x29518381c60"
+}
+]},
+{
+"context": "balaenicipitidae.n.01,_hypernym,bird_family.n.01,_hypernym,family.n.06,_member_meronym,tribe.n.03 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 32 , "text": "bird_family.n.01"}],
+"question": "balaenicipitidae.n.01,_hypernym",
+ "id": "0x2951833ff600x295183bf2b0"
+},
+{
+ "answers": [{"answer_start": 59 , "text": "family.n.06"}],
+"question": "bird_family.n.01,_hypernym",
+ "id": "0x2951833ffa80x295183bf730"
+},
+{
+ "answers": [{"answer_start": 87 , "text": "tribe.n.03"}],
+"question": "family.n.06,_member_meronym",
+ "id": "0x295183bf8b00x295183bf470"
+}
+]},
+{
+"context": "mortar_fire.n.01,_hypernym,artillery_fire.n.01,_hypernym,fire.n.02,_derivationally_related_form,fire.v.05,_derivationally_related_form,fire.n.02,_derivationally_related_form,fire.v.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 27 , "text": "artillery_fire.n.01"}],
+"question": "mortar_fire.n.01,_hypernym",
+ "id": "0x2951833f4f80x295183bf430"
+},
+{
+ "answers": [{"answer_start": 135 , "text": "fire.n.02"}],
+"question": "artillery_fire.n.01,_hypernym",
+ "id": "0x2951833f0300x295183bf530"
+},
+{
+ "answers": [{"answer_start": 96 , "text": "fire.v.05"}],
+"question": "fire.n.02,_derivationally_related_form",
+ "id": "0x295183bf9b00x29518381ee0"
+},
+{
+ "answers": [{"answer_start": 135 , "text": "fire.n.02"}],
+"question": "fire.v.05,_derivationally_related_form",
+ "id": "0x295183bf1700x29518381b70"
+},
+{
+ "answers": [{"answer_start": 174 , "text": "fire.v.02"}],
+"question": "fire.n.02,_derivationally_related_form",
+ "id": "0x295183bf9f00x29518381e40"
+}
+]},
+{
+"context": "united_states.n.01,_member_of_domain_region,lincoln's_birthday.n.01,_hypernym,day.n.03 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 44 , "text": "lincoln's_birthday.n.01"}],
+"question": "united_states.n.01,_member_of_domain_region",
+ "id": "0x295183430780x29518381df0"
+},
+{
+ "answers": [{"answer_start": 78 , "text": "day.n.03"}],
+"question": "lincoln's_birthday.n.01,_hypernym",
+ "id": "0x2951833ffa80x295183bf3f0"
+}
+]},
+{
+"context": "controversy.n.01,_derivationally_related_form,quarrel.v.01,_derivationally_related_form,dispute.n.02,_hypernym,resistance.n.11,_derivationally_related_form,resist.v.06,_derivationally_related_form,adversary.n.01,_derivationally_related_form,oppose.v.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 46 , "text": "quarrel.v.01"}],
+"question": "controversy.n.01,_derivationally_related_form",
+ "id": "0x2951833f4f80x29518391e40"
+},
+{
+ "answers": [{"answer_start": 88 , "text": "dispute.n.02"}],
+"question": "quarrel.v.01,_derivationally_related_form",
+ "id": "0x295183bf5300x29518fec940"
+},
+{
+ "answers": [{"answer_start": 111 , "text": "resistance.n.11"}],
+"question": "dispute.n.02,_hypernym",
+ "id": "0x295183bf9b00x295183bf170"
+},
+{
+ "answers": [{"answer_start": 156 , "text": "resist.v.06"}],
+"question": "resistance.n.11,_derivationally_related_form",
+ "id": "0x295183bf8b00x29518fec990"
+},
+{
+ "answers": [{"answer_start": 197 , "text": "adversary.n.01"}],
+"question": "resist.v.06,_derivationally_related_form",
+ "id": "0x295183bf3700x29518fec7b0"
+},
+{
+ "answers": [{"answer_start": 241 , "text": "oppose.v.01"}],
+"question": "adversary.n.01,_derivationally_related_form",
+ "id": "0x295183bf1f00x29518fec710"
+}
+]},
+{
+"context": "mutant.n.01,_derivationally_related_form,mutational.a.01,_derivationally_related_form,mutant.n.01,_hypernym,organism.n.01,_has_part,cell.n.02,_derivationally_related_form,cellular.a.02,_derivationally_related_form,cell.n.04 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 41 , "text": "mutational.a.01"}],
+"question": "mutant.n.01,_derivationally_related_form",
+ "id": "0x295183bf7300x29518391f80"
+},
+{
+ "answers": [{"answer_start": 86 , "text": "mutant.n.01"}],
+"question": "mutational.a.01,_derivationally_related_form",
+ "id": "0x295183bf6f00x29518391ee0"
+},
+{
+ "answers": [{"answer_start": 108 , "text": "organism.n.01"}],
+"question": "mutant.n.01,_hypernym",
+ "id": "0x295183bf4700x295183bf9f0"
+},
+{
+ "answers": [{"answer_start": 132 , "text": "cell.n.02"}],
+"question": "organism.n.01,_has_part",
+ "id": "0x295183bfa300x295183bf870"
+},
+{
+ "answers": [{"answer_start": 171 , "text": "cellular.a.02"}],
+"question": "cell.n.02,_derivationally_related_form",
+ "id": "0x295183bf2700x29518381ee0"
+},
+{
+ "answers": [{"answer_start": 214 , "text": "cell.n.04"}],
+"question": "cellular.a.02,_derivationally_related_form",
+ "id": "0x295183bf9300x29518381b70"
+}
+]},
+{
+"context": "proconsulship.n.01,_hypernym,position.n.06,_derivationally_related_form,officiate.v.02,_derivationally_related_form,official.n.01,_hypernym,skilled_worker.n.01,_hypernym,worker.n.01,_derivationally_related_form,work.v.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 29 , "text": "position.n.06"}],
+"question": "proconsulship.n.01,_hypernym",
+ "id": "0x2951833f4f80x295183bf170"
+},
+{
+ "answers": [{"answer_start": 72 , "text": "officiate.v.02"}],
+"question": "position.n.06,_derivationally_related_form",
+ "id": "0x295183bf5b00x29518381e40"
+},
+{
+ "answers": [{"answer_start": 116 , "text": "official.n.01"}],
+"question": "officiate.v.02,_derivationally_related_form",
+ "id": "0x295183bf3300x29518381df0"
+},
+{
+ "answers": [{"answer_start": 140 , "text": "skilled_worker.n.01"}],
+"question": "official.n.01,_hypernym",
+ "id": "0x295183bf2f00x295183bf630"
+},
+{
+ "answers": [{"answer_start": 170 , "text": "worker.n.01"}],
+"question": "skilled_worker.n.01,_hypernym",
+ "id": "0x2951833f1980x295183bf430"
+},
+{
+ "answers": [{"answer_start": 211 , "text": "work.v.01"}],
+"question": "worker.n.01,_derivationally_related_form",
+ "id": "0x295183bf4f00x29518fec760"
+}
+]},
+{
+"context": "conk.n.01,_hypernym,nose.n.01,_derivationally_related_form,scent.v.02,_derivationally_related_form,nose.n.06,_synset_domain_topic_of,animal.n.01,_hypernym,organism.n.01,_has_part,cell.n.02,_derivationally_related_form,cellular.a.02,_derivationally_related_form,cell.n.04 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 20 , "text": "nose.n.01"}],
+"question": "conk.n.01,_hypernym",
+ "id": "0x295183bf2b00x295183bf530"
+},
+{
+ "answers": [{"answer_start": 59 , "text": "scent.v.02"}],
+"question": "nose.n.01,_derivationally_related_form",
+ "id": "0x295183bf1f00x29518381da0"
+},
+{
+ "answers": [{"answer_start": 99 , "text": "nose.n.06"}],
+"question": "scent.v.02,_derivationally_related_form",
+ "id": "0x295183bf8700x29518381d50"
+},
+{
+ "answers": [{"answer_start": 133 , "text": "animal.n.01"}],
+"question": "nose.n.06,_synset_domain_topic_of",
+ "id": "0x295183bf2700x2951833ffa8"
+},
+{
+ "answers": [{"answer_start": 155 , "text": "organism.n.01"}],
+"question": "animal.n.01,_hypernym",
+ "id": "0x295183bf7b00x295183bf4b0"
+},
+{
+ "answers": [{"answer_start": 179 , "text": "cell.n.02"}],
+"question": "organism.n.01,_has_part",
+ "id": "0x295183bf1b00x295183bf230"
+},
+{
+ "answers": [{"answer_start": 218 , "text": "cellular.a.02"}],
+"question": "cell.n.02,_derivationally_related_form",
+ "id": "0x295183bf6700x29518381c60"
+},
+{
+ "answers": [{"answer_start": 261 , "text": "cell.n.04"}],
+"question": "cellular.a.02,_derivationally_related_form",
+ "id": "0x295183bf5700x29518381850"
+}
+]},
+{
+"context": "jump.n.06,_hypernym,propulsion.n.02,_derivationally_related_form,motivate.v.01,_derivationally_related_form,act.n.02,_derivationally_related_form,motivate.v.01,_derivationally_related_form,provocation.n.03 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 20 , "text": "propulsion.n.02"}],
+"question": "jump.n.06,_hypernym",
+ "id": "0x295183bf4f00x295183bf170"
+},
+{
+ "answers": [{"answer_start": 146 , "text": "motivate.v.01"}],
+"question": "propulsion.n.02,_derivationally_related_form",
+ "id": "0x295183bf5b00x29518391ee0"
+},
+{
+ "answers": [{"answer_start": 108 , "text": "act.n.02"}],
+"question": "motivate.v.01,_derivationally_related_form",
+ "id": "0x295183bf3300x29518381b70"
+},
+{
+ "answers": [{"answer_start": 146 , "text": "motivate.v.01"}],
+"question": "act.n.02,_derivationally_related_form",
+ "id": "0x295183bf2f00x29518381ee0"
+},
+{
+ "answers": [{"answer_start": 189 , "text": "provocation.n.03"}],
+"question": "motivate.v.01,_derivationally_related_form",
+ "id": "0x295183bf6300x29518fec6c0"
+}
+]},
+{
+"context": "syrian_desert.n.01,_instance_hypernym,desert.n.01,_hypernym,tract.n.01,_derivationally_related_form,parcel.v.01,_derivationally_related_form,tract.n.01,_hypernym,geographical_area.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 38 , "text": "desert.n.01"}],
+"question": "syrian_desert.n.01,_instance_hypernym",
+ "id": "0x2951833f3d80x2951833f4f8"
+},
+{
+ "answers": [{"answer_start": 141 , "text": "tract.n.01"}],
+"question": "desert.n.01,_hypernym",
+ "id": "0x295183bf6b00x295183bf5f0"
+},
+{
+ "answers": [{"answer_start": 100 , "text": "parcel.v.01"}],
+"question": "tract.n.01,_derivationally_related_form",
+ "id": "0x295183bf3700x29518391e40"
+},
+{
+ "answers": [{"answer_start": 141 , "text": "tract.n.01"}],
+"question": "parcel.v.01,_derivationally_related_form",
+ "id": "0x295183bf3f00x29518391e90"
+},
+{
+ "answers": [{"answer_start": 162 , "text": "geographical_area.n.01"}],
+"question": "tract.n.01,_hypernym",
+ "id": "0x295183bf1f00x295183bf870"
+}
+]},
+{
+"context": "pedagogical.a.01,_derivationally_related_form,education.n.01,_derivationally_related_form,educate.v.01,_derivationally_related_form,education.n.04,_derivationally_related_form,educationist.n.01,_derivationally_related_form,education.n.04,_derivationally_related_form,train.v.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 46 , "text": "education.n.01"}],
+"question": "pedagogical.a.01,_derivationally_related_form",
+ "id": "0x2951833ffa80x29518fec5d0"
+},
+{
+ "answers": [{"answer_start": 90 , "text": "educate.v.01"}],
+"question": "education.n.01,_derivationally_related_form",
+ "id": "0x295183bf9700x29518fec620"
+},
+{
+ "answers": [{"answer_start": 223 , "text": "education.n.04"}],
+"question": "educate.v.01,_derivationally_related_form",
+ "id": "0x295183bf5700x29518fec580"
+},
+{
+ "answers": [{"answer_start": 176 , "text": "educationist.n.01"}],
+"question": "education.n.04,_derivationally_related_form",
+ "id": "0x295183bf4300x29518fec4e0"
+},
+{
+ "answers": [{"answer_start": 223 , "text": "education.n.04"}],
+"question": "educationist.n.01,_derivationally_related_form",
+ "id": "0x2951833f0300x29518fec530"
+},
+{
+ "answers": [{"answer_start": 267 , "text": "train.v.01"}],
+"question": "education.n.04,_derivationally_related_form",
+ "id": "0x295183bf2b00x29518fec440"
+}
+]},
+{
+"context": "task_force.n.01,_synset_domain_topic_of,military.n.01,_hypernym,force.n.04 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 40 , "text": "military.n.01"}],
+"question": "task_force.n.01,_synset_domain_topic_of",
+ "id": "0x29517b711b00x2951833f270"
+},
+{
+ "answers": [{"answer_start": 64 , "text": "force.n.04"}],
+"question": "military.n.01,_hypernym",
+ "id": "0x295183bf6b00x295183bf870"
+}
+]},
+{
+"context": "boletaceae.n.01,_member_meronym,fuscoboletinus.n.01,_hypernym,fungus_genus.n.01,_hypernym,genus.n.02,_member_meronym,species.n.01,_member_meronym,form.n.09,_synset_domain_topic_of,biology.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 32 , "text": "fuscoboletinus.n.01"}],
+"question": "boletaceae.n.01,_member_meronym",
+ "id": "0x295183bf4f00x295183bf630"
+},
+{
+ "answers": [{"answer_start": 62 , "text": "fungus_genus.n.01"}],
+"question": "fuscoboletinus.n.01,_hypernym",
+ "id": "0x2951833f0300x295183bf2f0"
+},
+{
+ "answers": [{"answer_start": 90 , "text": "genus.n.02"}],
+"question": "fungus_genus.n.01,_hypernym",
+ "id": "0x2951833f3000x295183bf270"
+},
+{
+ "answers": [{"answer_start": 117 , "text": "species.n.01"}],
+"question": "genus.n.02,_member_meronym",
+ "id": "0x295183bf7b00x295183bf4b0"
+},
+{
+ "answers": [{"answer_start": 146 , "text": "form.n.09"}],
+"question": "species.n.01,_member_meronym",
+ "id": "0x295183bf1b00x295183bf230"
+},
+{
+ "answers": [{"answer_start": 180 , "text": "biology.n.01"}],
+"question": "form.n.09,_synset_domain_topic_of",
+ "id": "0x295183bf6700x2951833f390"
+}
+]},
+{
+"context": "navigation.n.01,_derivationally_related_form,navigational.a.01,_derivationally_related_form,navigation.n.02,_derivationally_related_form,navigational.a.01,_derivationally_related_form,seafaring.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 137 , "text": "navigational.a.01"}],
+"question": "navigation.n.01,_derivationally_related_form",
+ "id": "0x295183bf5b00x29518391f30"
+},
+{
+ "answers": [{"answer_start": 92 , "text": "navigation.n.02"}],
+"question": "navigational.a.01,_derivationally_related_form",
+ "id": "0x2951833ff600x29518381da0"
+},
+{
+ "answers": [{"answer_start": 137 , "text": "navigational.a.01"}],
+"question": "navigation.n.02,_derivationally_related_form",
+ "id": "0x295183bf8700x29518381d50"
+},
+{
+ "answers": [{"answer_start": 184 , "text": "seafaring.n.01"}],
+"question": "navigational.a.01,_derivationally_related_form",
+ "id": "0x2951833f3d80x29518381c60"
+}
+]},
+{
+"context": "clap.v.04,_derivationally_related_form,applause.n.01,_derivationally_related_form,clap.v.04,_derivationally_related_form,applause.n.01,_hypernym,approval.n.04 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 121 , "text": "applause.n.01"}],
+"question": "clap.v.04,_derivationally_related_form",
+ "id": "0x295183bf2f00x29518391f80"
+},
+{
+ "answers": [{"answer_start": 82 , "text": "clap.v.04"}],
+"question": "applause.n.01,_derivationally_related_form",
+ "id": "0x295183bf2700x29518391ee0"
+},
+{
+ "answers": [{"answer_start": 121 , "text": "applause.n.01"}],
+"question": "clap.v.04,_derivationally_related_form",
+ "id": "0x295183bf6b00x29518391e90"
+},
+{
+ "answers": [{"answer_start": 145 , "text": "approval.n.04"}],
+"question": "applause.n.01,_hypernym",
+ "id": "0x295183bf6300x295183bf7b0"
+}
+]},
+{
+"context": "sibilate.v.01,_derivationally_related_form,sibilation.n.02,_derivationally_related_form,assibilate.v.02,_hypernym,change.v.02,_derivationally_related_form,change.n.01,_derivationally_related_form,change.v.01,_derivationally_related_form,change.n.02,_derivationally_related_form,change.v.03,_derivationally_related_form,change.n.06 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 43 , "text": "sibilation.n.02"}],
+"question": "sibilate.v.01,_derivationally_related_form",
+ "id": "0x295183bf5f00x29518381e90"
+},
+{
+ "answers": [{"answer_start": 88 , "text": "assibilate.v.02"}],
+"question": "sibilation.n.02,_derivationally_related_form",
+ "id": "0x295183bf2b00x29518381ad0"
+},
+{
+ "answers": [{"answer_start": 114 , "text": "change.v.02"}],
+"question": "assibilate.v.02,_hypernym",
+ "id": "0x295183bf9700x295183bf1f0"
+},
+{
+ "answers": [{"answer_start": 155 , "text": "change.n.01"}],
+"question": "change.v.02,_derivationally_related_form",
+ "id": "0x295183bf3300x29518381a80"
+},
+{
+ "answers": [{"answer_start": 196 , "text": "change.v.01"}],
+"question": "change.n.01,_derivationally_related_form",
+ "id": "0x295183bf5300x29518381cb0"
+},
+{
+ "answers": [{"answer_start": 237 , "text": "change.n.02"}],
+"question": "change.v.01,_derivationally_related_form",
+ "id": "0x295183bf5700x29518381bc0"
+},
+{
+ "answers": [{"answer_start": 278 , "text": "change.v.03"}],
+"question": "change.n.02,_derivationally_related_form",
+ "id": "0x295183bf3f00x29518381c10"
+},
+{
+ "answers": [{"answer_start": 319 , "text": "change.n.06"}],
+"question": "change.v.03,_derivationally_related_form",
+ "id": "0x295183bf1700x29518381d00"
+}
+]},
+{
+"context": "carcharhinus.n.01,_hypernym,fish_genus.n.01,_hypernym,genus.n.02,_member_meronym,species.n.01,_member_meronym,form.n.09,_synset_domain_topic_of,biology.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 28 , "text": "fish_genus.n.01"}],
+"question": "carcharhinus.n.01,_hypernym",
+ "id": "0x2951833f4f80x295183bfa30"
+},
+{
+ "answers": [{"answer_start": 54 , "text": "genus.n.02"}],
+"question": "fish_genus.n.01,_hypernym",
+ "id": "0x295183bf6b00x295183bf1b0"
+},
+{
+ "answers": [{"answer_start": 81 , "text": "species.n.01"}],
+"question": "genus.n.02,_member_meronym",
+ "id": "0x295183bf2300x295183bf430"
+},
+{
+ "answers": [{"answer_start": 110 , "text": "form.n.09"}],
+"question": "species.n.01,_member_meronym",
+ "id": "0x295183bf5b00x295183bf670"
+},
+{
+ "answers": [{"answer_start": 144 , "text": "biology.n.01"}],
+"question": "form.n.09,_synset_domain_topic_of",
+ "id": "0x295183bf3700x2951833f3d8"
+}
+]},
+{
+"context": "discriminatory.s.04,_derivationally_related_form,predilection.n.01,_derivationally_related_form,choose.v.02,_derivationally_related_form,choice.n.02,_derivationally_related_form,choose.v.02,_derivationally_related_form,preferment.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 49 , "text": "predilection.n.01"}],
+"question": "discriminatory.s.04,_derivationally_related_form",
+ "id": "0x2951833f3480x29518381800"
+},
+{
+ "answers": [{"answer_start": 178 , "text": "choose.v.02"}],
+"question": "predilection.n.01,_derivationally_related_form",
+ "id": "0x2951833f2280x295183814e0"
+},
+{
+ "answers": [{"answer_start": 137 , "text": "choice.n.02"}],
+"question": "choose.v.02,_derivationally_related_form",
+ "id": "0x295183bf2b00x29518381710"
+},
+{
+ "answers": [{"answer_start": 178 , "text": "choose.v.02"}],
+"question": "choice.n.02,_derivationally_related_form",
+ "id": "0x295183bf1700x29518381990"
+},
+{
+ "answers": [{"answer_start": 219 , "text": "preferment.n.01"}],
+"question": "choose.v.02,_derivationally_related_form",
+ "id": "0x295183bf2f00x295183819e0"
+}
+]},
+{
+"context": "solmization.n.02,_derivationally_related_form,solmizate.v.02,_derivationally_related_form,solmization.n.02,_derivationally_related_form,solmizate.v.01,_derivationally_related_form,solmization.n.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 46 , "text": "solmizate.v.02"}],
+"question": "solmization.n.02,_derivationally_related_form",
+ "id": "0x2951833f4f80x29518391e90"
+},
+{
+ "answers": [{"answer_start": 180 , "text": "solmization.n.02"}],
+"question": "solmizate.v.02,_derivationally_related_form",
+ "id": "0x295183bf2700x29518391f30"
+},
+{
+ "answers": [{"answer_start": 136 , "text": "solmizate.v.01"}],
+"question": "solmization.n.02,_derivationally_related_form",
+ "id": "0x2951833f2700x29518381a30"
+},
+{
+ "answers": [{"answer_start": 180 , "text": "solmization.n.02"}],
+"question": "solmizate.v.01,_derivationally_related_form",
+ "id": "0x295183bf9f00x29518381b20"
+}
+]},
+{
+"context": "zinnia.n.01,_hypernym,flower.n.01,_hypernym,angiosperm.n.01,_hypernym,spermatophyte.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 22 , "text": "flower.n.01"}],
+"question": "zinnia.n.01,_hypernym",
+ "id": "0x295183bf2f00x295183bfa30"
+},
+{
+ "answers": [{"answer_start": 44 , "text": "angiosperm.n.01"}],
+"question": "flower.n.01,_hypernym",
+ "id": "0x295183bf7700x295183bf5f0"
+},
+{
+ "answers": [{"answer_start": 70 , "text": "spermatophyte.n.01"}],
+"question": "angiosperm.n.01,_hypernym",
+ "id": "0x295183bf1b00x295183bf230"
+}
+]},
+{
+"context": "nose.n.01,_derivationally_related_form,scent.v.02,_derivationally_related_form,olfactory_property.n.01,_derivationally_related_form,smell.v.01,_derivationally_related_form,olfactory_property.n.01,_derivationally_related_form,scent.v.02,_derivationally_related_form,nose.n.01,_has_part,internasal_suture.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 225 , "text": "scent.v.02"}],
+"question": "nose.n.01,_derivationally_related_form",
+ "id": "0x295183bf4700x29518381990"
+},
+{
+ "answers": [{"answer_start": 172 , "text": "olfactory_property.n.01"}],
+"question": "scent.v.02,_derivationally_related_form",
+ "id": "0x295183bf3700x29518381ad0"
+},
+{
+ "answers": [{"answer_start": 132 , "text": "smell.v.01"}],
+"question": "olfactory_property.n.01,_derivationally_related_form",
+ "id": "0x2951833f4f80x29518381a80"
+},
+{
+ "answers": [{"answer_start": 172 , "text": "olfactory_property.n.01"}],
+"question": "smell.v.01,_derivationally_related_form",
+ "id": "0x295183bf2b00x29518381cb0"
+},
+{
+ "answers": [{"answer_start": 225 , "text": "scent.v.02"}],
+"question": "olfactory_property.n.01,_derivationally_related_form",
+ "id": "0x2951833f2700x29518381bc0"
+},
+{
+ "answers": [{"answer_start": 265 , "text": "nose.n.01"}],
+"question": "scent.v.02,_derivationally_related_form",
+ "id": "0x295183bf5b00x29518381c10"
+},
+{
+ "answers": [{"answer_start": 285 , "text": "internasal_suture.n.01"}],
+"question": "nose.n.01,_has_part",
+ "id": "0x295183bf6700x295183bf9b0"
+}
+]},
+{
+"context": "wheedle.v.01,_derivationally_related_form,coaxial_cable.n.01,_hypernym,cable.n.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 42 , "text": "coaxial_cable.n.01"}],
+"question": "wheedle.v.01,_derivationally_related_form",
+ "id": "0x295183bf1b00x29518391e90"
+},
+{
+ "answers": [{"answer_start": 71 , "text": "cable.n.02"}],
+"question": "coaxial_cable.n.01,_hypernym",
+ "id": "0x295183430780x295183bf9f0"
+}
+]},
+{
+"context": "apocynaceae.n.01,_member_meronym,mandevilla.n.01,_member_meronym,white_dipladenia.n.01,_hypernym,liana.n.01,_hypernym,vine.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 33 , "text": "mandevilla.n.01"}],
+"question": "apocynaceae.n.01,_member_meronym",
+ "id": "0x2951833f3480x295183bf230"
+},
+{
+ "answers": [{"answer_start": 65 , "text": "white_dipladenia.n.01"}],
+"question": "mandevilla.n.01,_member_meronym",
+ "id": "0x295183bf2b00x295183bf5b0"
+},
+{
+ "answers": [{"answer_start": 97 , "text": "liana.n.01"}],
+"question": "white_dipladenia.n.01,_hypernym",
+ "id": "0x2951833ff600x295183bf270"
+},
+{
+ "answers": [{"answer_start": 118 , "text": "vine.n.01"}],
+"question": "liana.n.01,_hypernym",
+ "id": "0x295183bf4300x295183bf170"
+}
+]},
+{
+"context": "tally.v.03,_hypernym,record.v.01,_hypernym,save.v.02,_hypernym,keep.v.03,_verb_group,keep_open.v.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 21 , "text": "record.v.01"}],
+"question": "tally.v.03,_hypernym",
+ "id": "0x295183bfa300x295183bf470"
+},
+{
+ "answers": [{"answer_start": 43 , "text": "save.v.02"}],
+"question": "record.v.01,_hypernym",
+ "id": "0x295183bf6b00x295183bf4b0"
+},
+{
+ "answers": [{"answer_start": 63 , "text": "keep.v.03"}],
+"question": "save.v.02,_hypernym",
+ "id": "0x295183bf8700x295183bf7b0"
+},
+{
+ "answers": [{"answer_start": 85 , "text": "keep_open.v.01"}],
+"question": "keep.v.03,_verb_group",
+ "id": "0x295183bf6300x295183bf970"
+}
+]},
+{
+"context": "ration.v.01,_derivationally_related_form,ration.n.02,_hypernym,share.n.01,_hypernym,assets.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 41 , "text": "ration.n.02"}],
+"question": "ration.v.01,_derivationally_related_form",
+ "id": "0x295183bf7700x29517fa21c0"
+},
+{
+ "answers": [{"answer_start": 63 , "text": "share.n.01"}],
+"question": "ration.n.02,_hypernym",
+ "id": "0x295183bf4300x295183bf1b0"
+},
+{
+ "answers": [{"answer_start": 84 , "text": "assets.n.01"}],
+"question": "share.n.01,_hypernym",
+ "id": "0x295183bf5f00x295183bf4f0"
+}
+]},
+{
+"context": "road.n.01,_hypernym,way.n.06,_hypernym,artifact.n.01,_hypernym,whole.n.02,_hypernym,object.n.01,_derivationally_related_form,exteriorize.v.02,_derivationally_related_form,objectification.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 20 , "text": "way.n.06"}],
+"question": "road.n.01,_hypernym",
+ "id": "0x2951838be300x295183bf2b0"
+},
+{
+ "answers": [{"answer_start": 39 , "text": "artifact.n.01"}],
+"question": "way.n.06,_hypernym",
+ "id": "0x295183bf9b00x295183bf6b0"
+},
+{
+ "answers": [{"answer_start": 63 , "text": "whole.n.02"}],
+"question": "artifact.n.01,_hypernym",
+ "id": "0x295183bf4b00x295183bf870"
+},
+{
+ "answers": [{"answer_start": 84 , "text": "object.n.01"}],
+"question": "whole.n.02,_hypernym",
+ "id": "0x295183bf7b00x295183bf2f0"
+},
+{
+ "answers": [{"answer_start": 125 , "text": "exteriorize.v.02"}],
+"question": "object.n.01,_derivationally_related_form",
+ "id": "0x295183bf9f00x29518391e40"
+},
+{
+ "answers": [{"answer_start": 171 , "text": "objectification.n.01"}],
+"question": "exteriorize.v.02,_derivationally_related_form",
+ "id": "0x2951833f3480x29518391ee0"
+}
+]},
+{
+"context": "five.n.01,_hypernym,digit.n.01,_derivationally_related_form,digitize.v.01,_derivationally_related_form,digitizer.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 20 , "text": "digit.n.01"}],
+"question": "five.n.01,_hypernym",
+ "id": "0x295183bf6300x295183bf370"
+},
+{
+ "answers": [{"answer_start": 60 , "text": "digitize.v.01"}],
+"question": "digit.n.01,_derivationally_related_form",
+ "id": "0x295183bfa300x29518381ee0"
+},
+{
+ "answers": [{"answer_start": 103 , "text": "digitizer.n.01"}],
+"question": "digitize.v.01,_derivationally_related_form",
+ "id": "0x295183bf4700x29518381b70"
+}
+]},
+{
+"context": "adaptation.n.02,_hypernym,organic_process.n.01,_hypernym,process.n.06 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 26 , "text": "organic_process.n.01"}],
+"question": "adaptation.n.02,_hypernym",
+ "id": "0x295183bf7700x295183bf430"
+},
+{
+ "answers": [{"answer_start": 57 , "text": "process.n.06"}],
+"question": "organic_process.n.01,_hypernym",
+ "id": "0x2951833f3000x295183bf5f0"
+}
+]},
+{
+"context": "american_revolution.n.01,_has_part,yorktown.n.02,_instance_hypernym,siege.n.01,_synset_domain_topic_of,military.n.01,_member_meronym,cadre.n.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 35 , "text": "yorktown.n.02"}],
+"question": "american_revolution.n.01,_has_part",
+ "id": "0x29518391e400x295183bf6b0"
+},
+{
+ "answers": [{"answer_start": 68 , "text": "siege.n.01"}],
+"question": "yorktown.n.02,_instance_hypernym",
+ "id": "0x295183bf6300x2951833f030"
+},
+{
+ "answers": [{"answer_start": 103 , "text": "military.n.01"}],
+"question": "siege.n.01,_synset_domain_topic_of",
+ "id": "0x295183bf3700x2951833f348"
+},
+{
+ "answers": [{"answer_start": 133 , "text": "cadre.n.02"}],
+"question": "military.n.01,_member_meronym",
+ "id": "0x295183bfa300x295183bf4b0"
+}
+]},
+{
+"context": "trustworthy.a.01,_also_see,faithful.a.01,_also_see,trustworthy.a.01,_also_see,honest.a.01,_also_see,honorable.a.02,_also_see,worthy.a.01,_also_see,honorable.a.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 27 , "text": "faithful.a.01"}],
+"question": "trustworthy.a.01,_also_see",
+ "id": "0x2951833f3000x295183bf670"
+},
+{
+ "answers": [{"answer_start": 51 , "text": "trustworthy.a.01"}],
+"question": "faithful.a.01,_also_see",
+ "id": "0x295183bf1700x295183bf970"
+},
+{
+ "answers": [{"answer_start": 78 , "text": "honest.a.01"}],
+"question": "trustworthy.a.01,_also_see",
+ "id": "0x2951833f4f80x295183bf230"
+},
+{
+ "answers": [{"answer_start": 147 , "text": "honorable.a.02"}],
+"question": "honest.a.01,_also_see",
+ "id": "0x295183bf5b00x295183bf270"
+},
+{
+ "answers": [{"answer_start": 125 , "text": "worthy.a.01"}],
+"question": "honorable.a.02,_also_see",
+ "id": "0x295183bf3300x295183bf530"
+},
+{
+ "answers": [{"answer_start": 147 , "text": "honorable.a.02"}],
+"question": "worthy.a.01,_also_see",
+ "id": "0x295183bf5700x295183bf3f0"
+}
+]},
+{
+"context": "chrysophyllum.n.01,_hypernym,dicot_genus.n.01,_hypernym,genus.n.02,_synset_domain_topic_of,biology.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 29 , "text": "dicot_genus.n.01"}],
+"question": "chrysophyllum.n.01,_hypernym",
+ "id": "0x2951833f0300x295183bf5f0"
+},
+{
+ "answers": [{"answer_start": 56 , "text": "genus.n.02"}],
+"question": "dicot_genus.n.01,_hypernym",
+ "id": "0x2951833f3480x295183bf4b0"
+},
+{
+ "answers": [{"answer_start": 91 , "text": "biology.n.01"}],
+"question": "genus.n.02,_synset_domain_topic_of",
+ "id": "0x295183bfa300x2951833f3d8"
+}
+]},
+{
+"context": "proceed.v.02,_verb_group,continue.v.03,_derivationally_related_form,preservation.n.02,_derivationally_related_form,continue.v.03,_hypernym,keep.v.01,_also_see,survive.v.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 115 , "text": "continue.v.03"}],
+"question": "proceed.v.02,_verb_group",
+ "id": "0x295183bf3700x295183bf470"
+},
+{
+ "answers": [{"answer_start": 68 , "text": "preservation.n.02"}],
+"question": "continue.v.03,_derivationally_related_form",
+ "id": "0x295183bf9700x29518391ee0"
+},
+{
+ "answers": [{"answer_start": 115 , "text": "continue.v.03"}],
+"question": "preservation.n.02,_derivationally_related_form",
+ "id": "0x2951833f2700x29518391e90"
+},
+{
+ "answers": [{"answer_start": 139 , "text": "keep.v.01"}],
+"question": "continue.v.03,_hypernym",
+ "id": "0x295183bf2300x295183bf5b0"
+},
+{
+ "answers": [{"answer_start": 159 , "text": "survive.v.01"}],
+"question": "keep.v.01,_also_see",
+ "id": "0x295183bf2700x295183bf330"
+}
+]},
+{
+"context": "emptying.n.01,_derivationally_related_form,evacuate.v.05,_hypernym,excrete.v.01,_hypernym,exhaust.v.05,_derivationally_related_form,release.n.03 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 43 , "text": "evacuate.v.05"}],
+"question": "emptying.n.01,_derivationally_related_form",
+ "id": "0x295183bfa300x29518381850"
+},
+{
+ "answers": [{"answer_start": 67 , "text": "excrete.v.01"}],
+"question": "evacuate.v.05,_hypernym",
+ "id": "0x295183bf5f00x295183bf670"
+},
+{
+ "answers": [{"answer_start": 90 , "text": "exhaust.v.05"}],
+"question": "excrete.v.01,_hypernym",
+ "id": "0x295183bf1700x295183bf870"
+},
+{
+ "answers": [{"answer_start": 132 , "text": "release.n.03"}],
+"question": "exhaust.v.05,_derivationally_related_form",
+ "id": "0x295183bf2f00x29518381df0"
+}
+]},
+{
+"context": "omomyid.n.01,_hypernym,taxonomic_group.n.01,_hypernym,biological_group.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 23 , "text": "taxonomic_group.n.01"}],
+"question": "omomyid.n.01,_hypernym",
+ "id": "0x295182fbdb00x295183bf570"
+},
+{
+ "answers": [{"answer_start": 54 , "text": "biological_group.n.01"}],
+"question": "taxonomic_group.n.01,_hypernym",
+ "id": "0x2951833f3900x295183bf530"
+}
+]},
+{
+"context": "nymphaeaceae.n.01,_member_meronym,nuphar.n.01,_hypernym,magnoliid_dicot_genus.n.01,_hypernym,dicot_genus.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 34 , "text": "nuphar.n.01"}],
+"question": "nymphaeaceae.n.01,_member_meronym",
+ "id": "0x2951833ffa80x295183bf5f0"
+},
+{
+ "answers": [{"answer_start": 56 , "text": "magnoliid_dicot_genus.n.01"}],
+"question": "nuphar.n.01,_hypernym",
+ "id": "0x295183bf6700x295183bf170"
+},
+{
+ "answers": [{"answer_start": 93 , "text": "dicot_genus.n.01"}],
+"question": "magnoliid_dicot_genus.n.01,_hypernym",
+ "id": "0x29518381c600x295183bf870"
+}
+]},
+{
+"context": "caesalpinioideae.n.01,_member_meronym,ceratonia.n.01,_member_meronym,carob.n.02,_hypernym,bean_tree.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 38 , "text": "ceratonia.n.01"}],
+"question": "caesalpinioideae.n.01,_member_meronym",
+ "id": "0x2951833f1980x295183bf470"
+},
+{
+ "answers": [{"answer_start": 69 , "text": "carob.n.02"}],
+"question": "ceratonia.n.01,_member_meronym",
+ "id": "0x295183bf3700x295183bf330"
+},
+{
+ "answers": [{"answer_start": 90 , "text": "bean_tree.n.01"}],
+"question": "carob.n.02,_hypernym",
+ "id": "0x295183bf2700x295183bf6b0"
+}
+]},
+{
+"context": "substitution.n.02,_derivationally_related_form,switch_over.v.01,_derivationally_related_form,substitution.n.01,_derivationally_related_form,switch_over.v.01,_derivationally_related_form,switch.n.07 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 140 , "text": "switch_over.v.01"}],
+"question": "substitution.n.02,_derivationally_related_form",
+ "id": "0x295183430780x29518fec490"
+},
+{
+ "answers": [{"answer_start": 93 , "text": "substitution.n.01"}],
+"question": "switch_over.v.01,_derivationally_related_form",
+ "id": "0x2951833ff600x29518fec030"
+},
+{
+ "answers": [{"answer_start": 140 , "text": "switch_over.v.01"}],
+"question": "substitution.n.01,_derivationally_related_form",
+ "id": "0x2951833ee400x29518fec080"
+},
+{
+ "answers": [{"answer_start": 186 , "text": "switch.n.07"}],
+"question": "switch_over.v.01,_derivationally_related_form",
+ "id": "0x2951833ef180x29518fec0d0"
+}
+]},
+{
+"context": "judgment.n.02,_derivationally_related_form,pronounce.v.02,_hypernym,declare.v.04,_hypernym,evaluate.v.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 43 , "text": "pronounce.v.02"}],
+"question": "judgment.n.02,_derivationally_related_form",
+ "id": "0x295183bf4b00x29518391ee0"
+},
+{
+ "answers": [{"answer_start": 68 , "text": "declare.v.04"}],
+"question": "pronounce.v.02,_hypernym",
+ "id": "0x295183bf3300x295183bf870"
+},
+{
+ "answers": [{"answer_start": 91 , "text": "evaluate.v.02"}],
+"question": "declare.v.04,_hypernym",
+ "id": "0x295183bf5f00x295183bf530"
+}
+]},
+{
+"context": "middle_east.n.01,_has_part,israel.n.01,_has_part,jerusalem.n.01,_has_part,temple_of_jerusalem.n.01,_instance_hypernym,synagogue.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 27 , "text": "israel.n.01"}],
+"question": "middle_east.n.01,_has_part",
+ "id": "0x2951833f2700x295183bf430"
+},
+{
+ "answers": [{"answer_start": 84 , "text": "jerusalem.n.01"}],
+"question": "israel.n.01,_has_part",
+ "id": "0x295183bf2700x295183bf470"
+},
+{
+ "answers": [{"answer_start": 74 , "text": "temple_of_jerusalem.n.01"}],
+"question": "jerusalem.n.01,_has_part",
+ "id": "0x295183bf3700x295183bf6b0"
+},
+{
+ "answers": [{"answer_start": 118 , "text": "synagogue.n.01"}],
+"question": "temple_of_jerusalem.n.01,_instance_hypernym",
+ "id": "0x29518fec1700x2951833ff60"
+}
+]},
+{
+"context": "prick.v.02,_derivationally_related_form,stinger.n.04,_hypernym,organ.n.01,_has_part,lobe.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 40 , "text": "stinger.n.04"}],
+"question": "prick.v.02,_derivationally_related_form",
+ "id": "0x295183bf2f00x29517fa21c0"
+},
+{
+ "answers": [{"answer_start": 63 , "text": "organ.n.01"}],
+"question": "stinger.n.04,_hypernym",
+ "id": "0x295183bfa300x295183bf330"
+},
+{
+ "answers": [{"answer_start": 84 , "text": "lobe.n.01"}],
+"question": "organ.n.01,_has_part",
+ "id": "0x295183bf8700x295183bf9f0"
+}
+]},
+{
+"context": "tapper.n.04,_derivationally_related_form,wiretap.v.01,_derivationally_related_form,tapper.n.04,_derivationally_related_form,wiretap.v.01,_derivationally_related_form,wiretap.n.01,_hypernym,investigation.n.02,_hypernym,work.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 124 , "text": "wiretap.v.01"}],
+"question": "tapper.n.04,_derivationally_related_form",
+ "id": "0x295183bf5300x29518fec2b0"
+},
+{
+ "answers": [{"answer_start": 83 , "text": "tapper.n.04"}],
+"question": "wiretap.v.01,_derivationally_related_form",
+ "id": "0x295183bf6700x29518fec260"
+},
+{
+ "answers": [{"answer_start": 124 , "text": "wiretap.v.01"}],
+"question": "tapper.n.04,_derivationally_related_form",
+ "id": "0x295183bf3700x29518fec300"
+},
+{
+ "answers": [{"answer_start": 166 , "text": "wiretap.n.01"}],
+"question": "wiretap.v.01,_derivationally_related_form",
+ "id": "0x295183bf6b00x29519875490"
+},
+{
+ "answers": [{"answer_start": 189 , "text": "investigation.n.02"}],
+"question": "wiretap.n.01,_hypernym",
+ "id": "0x295183bf3f00x295183bf970"
+},
+{
+ "answers": [{"answer_start": 218 , "text": "work.n.01"}],
+"question": "investigation.n.02,_hypernym",
+ "id": "0x2951833f3480x295183bf230"
+}
+]},
+{
+"context": "lawyer-client_relation.n.01,_member_meronym,lawyer.n.01,_derivationally_related_form,law.n.06,_hypernym,learned_profession.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 44 , "text": "lawyer.n.01"}],
+"question": "lawyer-client_relation.n.01,_member_meronym",
+ "id": "0x29518391e900x295183bf830"
+},
+{
+ "answers": [{"answer_start": 85 , "text": "law.n.06"}],
+"question": "lawyer.n.01,_derivationally_related_form",
+ "id": "0x295183bf9f00x29518391f30"
+},
+{
+ "answers": [{"answer_start": 104 , "text": "learned_profession.n.01"}],
+"question": "law.n.06,_hypernym",
+ "id": "0x295183bf8700x295183bf2f0"
+}
+]},
+{
+"context": "pediculosis.n.01,_hypernym,infestation.n.01,_hypernym,fullness.n.03,_hypernym,condition.n.01,_hypernym,state.n.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 27 , "text": "infestation.n.01"}],
+"question": "pediculosis.n.01,_hypernym",
+ "id": "0x2951833f3480x295183bf230"
+},
+{
+ "answers": [{"answer_start": 54 , "text": "fullness.n.03"}],
+"question": "infestation.n.01,_hypernym",
+ "id": "0x2951833f3d80x295183bf530"
+},
+{
+ "answers": [{"answer_start": 78 , "text": "condition.n.01"}],
+"question": "fullness.n.03,_hypernym",
+ "id": "0x295183bf6b00x295183bf3f0"
+},
+{
+ "answers": [{"answer_start": 103 , "text": "state.n.02"}],
+"question": "condition.n.01,_hypernym",
+ "id": "0x295183bf9700x295183bf5f0"
+}
+]},
+{
+"context": "issue.v.02,_derivationally_related_form,issuer.n.01,_derivationally_related_form,publish.v.02,_derivationally_related_form,release.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 40 , "text": "issuer.n.01"}],
+"question": "issue.v.02,_derivationally_related_form",
+ "id": "0x295183bf3700x29518381da0"
+},
+{
+ "answers": [{"answer_start": 81 , "text": "publish.v.02"}],
+"question": "issuer.n.01,_derivationally_related_form",
+ "id": "0x295183bf3300x29518381df0"
+},
+{
+ "answers": [{"answer_start": 123 , "text": "release.n.01"}],
+"question": "publish.v.02,_derivationally_related_form",
+ "id": "0x295183bf8700x29518381850"
+}
+]},
+{
+"context": "brazil.n.01,_has_part,belem.n.01,_instance_hypernym,port.n.01,_hypernym,geographic_point.n.01,_hypernym,point.n.02 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 22 , "text": "belem.n.01"}],
+"question": "brazil.n.01,_has_part",
+ "id": "0x295183bf6b00x295183bf3f0"
+},
+{
+ "answers": [{"answer_start": 52 , "text": "port.n.01"}],
+"question": "belem.n.01,_instance_hypernym",
+ "id": "0x295183bf4b00x2951833ffa8"
+},
+{
+ "answers": [{"answer_start": 72 , "text": "geographic_point.n.01"}],
+"question": "port.n.01,_hypernym",
+ "id": "0x295183bf5b00x295183bf570"
+},
+{
+ "answers": [{"answer_start": 104 , "text": "point.n.02"}],
+"question": "geographic_point.n.01,_hypernym",
+ "id": "0x2951833f3480x295183bfa30"
+}
+]},
+{
+"context": "stool.v.04,_derivationally_related_form,shit.n.04,_derivationally_related_form,stool.v.04,_derivationally_related_form,crap.n.01,_hypernym,fecal_matter.n.01,_derivationally_related_form,faecal.a.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 40 , "text": "shit.n.04"}],
+"question": "stool.v.04,_derivationally_related_form",
+ "id": "0x295183bf4700x29518381ad0"
+},
+{
+ "answers": [{"answer_start": 79 , "text": "stool.v.04"}],
+"question": "shit.n.04,_derivationally_related_form",
+ "id": "0x295183bf8300x29518381a80"
+},
+{
+ "answers": [{"answer_start": 119 , "text": "crap.n.01"}],
+"question": "stool.v.04,_derivationally_related_form",
+ "id": "0x295183bf8700x29518381cb0"
+},
+{
+ "answers": [{"answer_start": 139 , "text": "fecal_matter.n.01"}],
+"question": "crap.n.01,_hypernym",
+ "id": "0x295183bf2700x295183bf970"
+},
+{
+ "answers": [{"answer_start": 186 , "text": "faecal.a.01"}],
+"question": "fecal_matter.n.01,_derivationally_related_form",
+ "id": "0x2951833f4f80x29518381bc0"
+}
+]},
+{
+"context": "inconclusiveness.n.01,_derivationally_related_form,inconclusive.a.01,_derivationally_related_form,inconclusiveness.n.01,_derivationally_related_form,inconclusive.a.01,_also_see,indeterminate.a.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 149 , "text": "inconclusive.a.01"}],
+"question": "inconclusiveness.n.01,_derivationally_related_form",
+ "id": "0x295183430780x29518381ee0"
+},
+{
+ "answers": [{"answer_start": 98 , "text": "inconclusiveness.n.01"}],
+"question": "inconclusive.a.01,_derivationally_related_form",
+ "id": "0x2951833f0300x29518381b70"
+},
+{
+ "answers": [{"answer_start": 149 , "text": "inconclusive.a.01"}],
+"question": "inconclusiveness.n.01,_derivationally_related_form",
+ "id": "0x2951833ff600x29518381da0"
+},
+{
+ "answers": [{"answer_start": 177 , "text": "indeterminate.a.01"}],
+"question": "inconclusive.a.01,_also_see",
+ "id": "0x2951833f1980x29517b711b0"
+}
+]},
+{
+"context": "phensuximide.n.01,_hypernym,anticonvulsant.n.01,_hypernym,medicine.n.02,_derivationally_related_form,medicate.v.02,_synset_domain_topic_of,medicine.n.03,_derivationally_related_form,medicate.v.02,_derivationally_related_form,medicine.n.03 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 28 , "text": "anticonvulsant.n.01"}],
+"question": "phensuximide.n.01,_hypernym",
+ "id": "0x2951833f3000x295183bf6b0"
+},
+{
+ "answers": [{"answer_start": 58 , "text": "medicine.n.02"}],
+"question": "anticonvulsant.n.01,_hypernym",
+ "id": "0x2951833f4f80x295183bf370"
+},
+{
+ "answers": [{"answer_start": 182 , "text": "medicate.v.02"}],
+"question": "medicine.n.02,_derivationally_related_form",
+ "id": "0x295183bf3300x29518381e40"
+},
+{
+ "answers": [{"answer_start": 225 , "text": "medicine.n.03"}],
+"question": "medicate.v.02,_synset_domain_topic_of",
+ "id": "0x295183bf5f00x2951833ec48"
+},
+{
+ "answers": [{"answer_start": 182 , "text": "medicate.v.02"}],
+"question": "medicine.n.03,_derivationally_related_form",
+ "id": "0x295183bf9f00x295183819e0"
+},
+{
+ "answers": [{"answer_start": 225 , "text": "medicine.n.03"}],
+"question": "medicate.v.02,_derivationally_related_form",
+ "id": "0x295183bf3f00x29518381800"
+}
+]},
+{
+"context": "falconiformes.n.01,_member_meronym,sagittariidae.n.01,_hypernym,bird_family.n.01,_hypernym,family.n.06,_member_meronym,tribe.n.03 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 35 , "text": "sagittariidae.n.01"}],
+"question": "falconiformes.n.01,_member_meronym",
+ "id": "0x295183430780x295183bf530"
+},
+{
+ "answers": [{"answer_start": 64 , "text": "bird_family.n.01"}],
+"question": "sagittariidae.n.01,_hypernym",
+ "id": "0x2951833f2280x295183bfa30"
+},
+{
+ "answers": [{"answer_start": 91 , "text": "family.n.06"}],
+"question": "bird_family.n.01,_hypernym",
+ "id": "0x2951833f2700x295183bf230"
+},
+{
+ "answers": [{"answer_start": 119 , "text": "tribe.n.03"}],
+"question": "family.n.06,_member_meronym",
+ "id": "0x295183bf4700x295183bf830"
+}
+]},
+{
+"context": "oxtongue.n.01,_hypernym,weed.n.01,_derivationally_related_form,weed.v.01,_hypernym,remove.v.01,_derivationally_related_form,remover.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 24 , "text": "weed.n.01"}],
+"question": "oxtongue.n.01,_hypernym",
+ "id": "0x295183bf3f00x295183bf2f0"
+},
+{
+ "answers": [{"answer_start": 63 , "text": "weed.v.01"}],
+"question": "weed.n.01,_derivationally_related_form",
+ "id": "0x295183bf4b00x29518381da0"
+},
+{
+ "answers": [{"answer_start": 83 , "text": "remove.v.01"}],
+"question": "weed.v.01,_hypernym",
+ "id": "0x295183bf9700x295183bf5f0"
+},
+{
+ "answers": [{"answer_start": 124 , "text": "remover.n.01"}],
+"question": "remove.v.01,_derivationally_related_form",
+ "id": "0x295183bf9f00x295183814e0"
+}
+]},
+{
+"context": "boomerang.v.01,_derivationally_related_form,boomerang.n.01,_hypernym,projectile.n.01,_hypernym,weapon.n.01,_derivationally_related_form,arm.v.02,_hypernym,supply.v.01,_hypernym,give.v.03,_derivationally_related_form,giving.n.03 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 44 , "text": "boomerang.n.01"}],
+"question": "boomerang.v.01,_derivationally_related_form",
+ "id": "0x295183bf2300x295183819e0"
+},
+{
+ "answers": [{"answer_start": 69 , "text": "projectile.n.01"}],
+"question": "boomerang.n.01,_hypernym",
+ "id": "0x295183bf4300x295183bf170"
+},
+{
+ "answers": [{"answer_start": 95 , "text": "weapon.n.01"}],
+"question": "projectile.n.01,_hypernym",
+ "id": "0x295183bf7b00x295183bf9b0"
+},
+{
+ "answers": [{"answer_start": 136 , "text": "arm.v.02"}],
+"question": "weapon.n.01,_derivationally_related_form",
+ "id": "0x295183bf7700x29518381850"
+},
+{
+ "answers": [{"answer_start": 155 , "text": "supply.v.01"}],
+"question": "arm.v.02,_hypernym",
+ "id": "0x295183bf1f00x295183bf2b0"
+},
+{
+ "answers": [{"answer_start": 177 , "text": "give.v.03"}],
+"question": "supply.v.01,_hypernym",
+ "id": "0x295183bf1b00x295183bf4f0"
+},
+{
+ "answers": [{"answer_start": 216 , "text": "giving.n.03"}],
+"question": "give.v.03,_derivationally_related_form",
+ "id": "0x295183bf6f00x29518381990"
+}
+]},
+{
+"context": "johnson.n.03,_instance_hypernym,president_of_the_united_states.n.01,_derivationally_related_form,presidential.a.01,_derivationally_related_form,president.n.01,_hypernym,corporate_executive.n.01,_hypernym,executive.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 32 , "text": "president_of_the_united_states.n.01"}],
+"question": "johnson.n.03,_instance_hypernym",
+ "id": "0x295183bf9f00x2951833ffa8"
+},
+{
+ "answers": [{"answer_start": 97 , "text": "presidential.a.01"}],
+"question": "president_of_the_united_states.n.01,_derivationally_related_form",
+ "id": "0x29518346b300x29518381710"
+},
+{
+ "answers": [{"answer_start": 144 , "text": "president.n.01"}],
+"question": "presidential.a.01,_derivationally_related_form",
+ "id": "0x2951833f3480x29518381d00"
+},
+{
+ "answers": [{"answer_start": 169 , "text": "corporate_executive.n.01"}],
+"question": "president.n.01,_hypernym",
+ "id": "0x295183bf3f00x295183bf2f0"
+},
+{
+ "answers": [{"answer_start": 204 , "text": "executive.n.01"}],
+"question": "corporate_executive.n.01,_hypernym",
+ "id": "0x29518381e900x295183bf4b0"
+}
+]},
+{
+"context": "mississippi.n.02,_instance_hypernym,american_state.n.01,_hypernym,state.n.01 " ,
+ "qas": [
+{
+ "answers": [{"answer_start": 36 , "text": "american_state.n.01"}],
+"question": "mississippi.n.02,_instance_hypernym",
+ "id": "0x2951833f3d80x2951833f198"
+},
+{
+ "answers": [{"answer_start": 66 , "text": "state.n.01"}],
+"question": "american_state.n.01,_hypernym",
+ "id": "0x2951833f2280x295183bf970"
+}
+]}
+]}]}
